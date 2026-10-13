@@ -1,0 +1,27 @@
+﻿indikator;periode;verdi;enhet;kilde_id;merknad;traad
+Markedsverdi husholdningenes boliger;2024;9159;mrd. kroner;K46;"Kun boligeiendeler; ikke lik omsetningslikviditet";03
+Avgrenset nettoformue bolig pluss nettofinansielle fordringer;2024;11958;mrd. kroner;K46;Ikke identisk med all husholdningsformue fra K07;03
+Beregnet nettofinansielle fordringer, differanse;2024;2799;mrd. kroner;K46;Egen differanse 11958−9159;03
+Boligens andel av avgrenset nettoformue;2024;76.593;prosent;K46;"Egen aritmetikk 9159/11958×100; ikke boligandel av bruttoformue";03
+Nettoinvestering i egen bolig;2024;57;mrd. kroner;K46;Netto, ikke bruttoinvesteringer;03
+Nettoinvestering i egen bolig;2025;51;mrd. kroner;K46;Netto, ikke kredittilførsel;03
+Nominell boligprisindeks;1993;19.0;2015=100;K47;Bruktboliger;03
+Nominell boligprisindeks;2025;152.5;2015=100;K47;Bruktboliger;03
+Nominell boligprisvekst;2015–2024;44.6;prosent;K47;SSB sammenlikningsperiode;03
+KPI-vekst;2015–2024;33.6;prosent;K47;SSB sammenlikningsperiode;03
+Reell boligprisvekst, akkumulert;2015–2024;8.234;prosent;K47;Egen aritmetikk, 2015–2024 basert på de to publiserte prosenttallene;03
+Nominell bruktboligprisfaktor;1993–2025;8.026;gangetall;K47;Nominell relativ indeks, ikke real eller lønnsjustert;03
+Igangsettingstillatelser;2025;20184;boliger;K50;Tillatelser gitt i kalenderår, ikke nødvendigvis ferdigstilt;03
+Fullførte boliger;2024;24032;boliger;K50;Produksjonsstatistikk;03
+Fullførte boliger;2025;19498;boliger;K50;Produksjonsstatistikk;03
+Eiendomsrelaterte næringer, andel bedriftsutlån;2026;56;prosent;K55;Av innenlandske bedriftsutlån, inklusive eiendomsutvikling og bygg/anlegg;03
+Gjeldsgrad, nye boliglånskunder;2025;329;prosent;K51;Vektet snitt hos nye låntakere, ikke gjennomsnitt alle husholdninger;03
+Gjeldsgrad førstegangskjøpere;2025;380;prosent;K52;Undersøkelsens førstegangskjøpere;03
+Belåningsgrad førstegangskjøpere;2025;77;prosent;K52;Gjennomsnitt i utvalget;03
+Eldre medlåntaker utenfor husholdningen, førstegangskjøpere;2025;13;prosent;K52;Andel nye lån, ikke alle kjøpere;03
+Eldre medlåntaker utenfor husholdningen, førstegangskjøpere;2024;8;prosent;K52;Andel nye lån, ikke alle kjøpere;03
+Utlånsforskrift maksimal belåningsgrad;2025;90;prosent;K53;"Hovedregel; fleksibilitetskvoter";03
+Utlånsforskrift gjeldsgrad, tak;2025;5;ganger bruttoinntekt;K53;"Hovedregel; fleksibilitetskvoter";03
+Primærbolig skattemessig verdsettingsandel inntil 14 mill.;2026;25;prosent;K57;"Formuesskatteverdsettelse; ikke samlet marginalskatt";03
+Primærbolig skattemessig verdsettingsandel over 14 mill.;2026;70;prosent;K57;Gjelder overskytende verdi;03
+Sekundærbolig skattemessig verdsettingsandel;2026;100;prosent;K57;Gjelder formuesskatteverdi;03

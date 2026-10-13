@@ -1,0 +1,98 @@
+[
+  {
+    "region": "Hele landet",
+    "aar_aar_endring_prosent": 4.4,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Oslo med Bærum",
+    "aar_aar_endring_prosent": 0.8,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Stavanger",
+    "aar_aar_endring_prosent": 10.9,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Bergen",
+    "aar_aar_endring_prosent": 11.3,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Trondheim",
+    "aar_aar_endring_prosent": 2.0,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Akershus uten Bærum",
+    "aar_aar_endring_prosent": 2.1,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Østfold, Buskerud, Vestfold og Telemark",
+    "aar_aar_endring_prosent": 2.1,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Innlandet",
+    "aar_aar_endring_prosent": 1.6,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Agder og Rogaland uten Stavanger",
+    "aar_aar_endring_prosent": 10.9,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Møre og Romsdal og Vestland uten Bergen",
+    "aar_aar_endring_prosent": 9.2,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Trøndelag uten Trondheim",
+    "aar_aar_endring_prosent": 1.7,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  },
+  {
+    "region": "Nord-Norge",
+    "aar_aar_endring_prosent": 6.3,
+    "periode": "2025-K2–2026-K2",
+    "maaleenhet": "Nominell prisendring % samme kvartal året før",
+    "sesongjustert": false,
+    "kilde_id": "K49"
+  }
+]

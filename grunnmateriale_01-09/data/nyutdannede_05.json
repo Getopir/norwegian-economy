@@ -1,0 +1,20 @@
+[
+  {
+    "aar": 2024,
+    "andel_sysselsatt_prosent": 89.9,
+    "andel_akademiske_yrker_prosent": 83.0,
+    "kilde_id": "K88",
+    "gruppe": "20–34 år, nylig avsluttet utdanning",
+    "status": "AKU observasjon",
+    "merknad": "Andel i akademiske yrker gjelder nyutdannede med høyere utdanning; annen populasjonsnevner enn sysselsettingsandelen"
+  },
+  {
+    "aar": 2025,
+    "andel_sysselsatt_prosent": 88.6,
+    "andel_akademiske_yrker_prosent": 78.8,
+    "kilde_id": "K88",
+    "gruppe": "20–34 år, nylig avsluttet utdanning",
+    "status": "AKU observasjon",
+    "merknad": "Andel i akademiske yrker gjelder nyutdannede med høyere utdanning; annen populasjonsnevner enn sysselsettingsandelen"
+  }
+]

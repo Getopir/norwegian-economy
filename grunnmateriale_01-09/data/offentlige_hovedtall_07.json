@@ -1,0 +1,202 @@
+[
+  {
+    "aar": 2021,
+    "indikator": "Inntekter",
+    "verdi_mill_kr": 2449364,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2021,
+    "indikator": "Løpende utgifter",
+    "verdi_mill_kr": 1932789,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2021,
+    "indikator": "Nettoinvestering i ikke-finansiell kapital",
+    "verdi_mill_kr": 70642,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2021,
+    "indikator": "Totale utgifter",
+    "verdi_mill_kr": 2003431,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2021,
+    "indikator": "Nettofinansinvestering",
+    "verdi_mill_kr": 445933,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2022,
+    "indikator": "Inntekter",
+    "verdi_mill_kr": 3618188,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2022,
+    "indikator": "Løpende utgifter",
+    "verdi_mill_kr": 2081911,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2022,
+    "indikator": "Nettoinvestering i ikke-finansiell kapital",
+    "verdi_mill_kr": 75426,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2022,
+    "indikator": "Totale utgifter",
+    "verdi_mill_kr": 2157337,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2022,
+    "indikator": "Nettofinansinvestering",
+    "verdi_mill_kr": 1460851,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2023,
+    "indikator": "Inntekter",
+    "verdi_mill_kr": 3191777,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2023,
+    "indikator": "Løpende utgifter",
+    "verdi_mill_kr": 2265457,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2023,
+    "indikator": "Nettoinvestering i ikke-finansiell kapital",
+    "verdi_mill_kr": 83264,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2023,
+    "indikator": "Totale utgifter",
+    "verdi_mill_kr": 2348721,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2023,
+    "indikator": "Nettofinansinvestering",
+    "verdi_mill_kr": 843056,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2024,
+    "indikator": "Inntekter",
+    "verdi_mill_kr": 3217991,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2024,
+    "indikator": "Løpende utgifter",
+    "verdi_mill_kr": 2441004,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2024,
+    "indikator": "Nettoinvestering i ikke-finansiell kapital",
+    "verdi_mill_kr": 91290,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2024,
+    "indikator": "Totale utgifter",
+    "verdi_mill_kr": 2532294,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2024,
+    "indikator": "Nettofinansinvestering",
+    "verdi_mill_kr": 685697,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2025,
+    "indikator": "Inntekter",
+    "verdi_mill_kr": 3265786,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2025,
+    "indikator": "Løpende utgifter",
+    "verdi_mill_kr": 2602008,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2025,
+    "indikator": "Nettoinvestering i ikke-finansiell kapital",
+    "verdi_mill_kr": 82543,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2025,
+    "indikator": "Totale utgifter",
+    "verdi_mill_kr": 2684551,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  },
+  {
+    "aar": 2025,
+    "indikator": "Nettofinansinvestering",
+    "verdi_mill_kr": 581235,
+    "kilde_id": "K113",
+    "status": "SSB 14668 revidert 2026-09-07",
+    "nivaa": "Offentlig forvaltning, SNA/ESA"
+  }
+]

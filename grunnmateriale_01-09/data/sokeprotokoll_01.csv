@@ -1,0 +1,17 @@
+﻿id;dato;sokeuttrykk;formaalskategori;inkluderte_kilde_id;utvalgstype
+S01;2026-10-12;SSB kvalitetskrav offisiell statistikk kvalitetshåndbok;Offisiell statistikk;K24 K34;Målrettet
+S02;2026-10-12;AEA data editor data and code availability policy replication economic journal;Reproduserbarhet;K25;Målrettet
+S03;2026-10-12;FAIR guiding principles scientific data 2016 Wilkinson;Dataforvaltning;K26;Målrettet
+S04;2026-10-12;OECD Economic Surveys Norway 2026 June productivity financial fiscal;Norsk diagnose;K03;Målrettet
+S05;2026-10-12;SSB Norsk økonomi vokste mer enn tidligere publisert produktivitet 2022;Statistiske revisjoner;K02;Målrettet
+S06;2026-10-12;site:ec.europa.eu eurostat European Statistics Code of Practice 2017;Harmonisering;K35;Målrettet
+S07;2026-10-12;site:ssb.no PxWebApi v2 statistikkbanken;Datatilgang;K28;Målrettet
+S08;2026-10-12;site:prisma-statement.org PRISMA 2020 systematic review checklist;Kunnskapsoversikt;K30;Målrettet
+S09;2026-10-12;site:strobe-statement.org STROBE observational studies checklist;Observasjonsdesign;K31;Målrettet
+S10;2026-10-12;site:imf.org fiscal transparency code long term sustainability scenarios;Finanspolitisk metode;K32;Målrettet
+S11;2026-10-12;site:aeaweb.org AI software manuscript author accountable;Forskningsetikk og KI;K33;Målrettet
+S12;2026-10-12;SSB kvalitetsrapport 2026 usikkerhet feilkilder;Norsk statistikkvalitet;K23;Målrettet
+S13;2026-10-12;SSB definisjon BNP Fastlands-Norge og kjedet volum;Variabeldefinisjoner;K29;Målrettet
+S14;2026-10-12;SSB unge uten formuende foreldre eier sjeldnere bolig Oslo;Kohortdata;K08;Målrettet
+S15;2026-10-12;Norges Bank Finansiell stabilitet 2026-1 gjeldsbelastning;Stabilitet og datavintage;K10;Målrettet
+S16;2026-10-12;RNB 2026 nøkkeltall SPU strukturelt underskudd 579;Budsjettregnskap;K05;Målrettet

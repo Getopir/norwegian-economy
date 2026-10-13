@@ -1,0 +1,62 @@
+[
+  {
+    "studie": "Jakobsen mfl. (2026), AER",
+    "utfall": "Bestand formuende skattytere",
+    "effekt": -2.0,
+    "enhet": "prosent ved +1 prosentpoeng toppformuesskatt",
+    "horisont": "Studiedesign og skatteendringens rammer",
+    "type": "Identifikasjonsbasert kausalt estimat",
+    "kilde_id": "K103",
+    "sammenlignbar_med_annen_rad": "Nei: utfallsenhet/horisont ulik"
+  },
+  {
+    "studie": "Jakobsen mfl. (2026), AER",
+    "utfall": "Sysselsetting",
+    "effekt": -0.02,
+    "enhet": "prosent ved +1 prosentpoeng toppformuesskatt",
+    "horisont": "Aggregert modellestimat",
+    "type": "Aggregert beregnet effekt",
+    "kilde_id": "K103",
+    "sammenlignbar_med_annen_rad": "Nei: annen utfallsenhet"
+  },
+  {
+    "studie": "Jakobsen mfl. (2026), AER",
+    "utfall": "Investering",
+    "effekt": -0.07,
+    "enhet": "prosent ved +1 prosentpoeng toppformuesskatt",
+    "horisont": "Aggregert modellestimat",
+    "type": "Aggregert beregnet effekt",
+    "kilde_id": "K103",
+    "sammenlignbar_med_annen_rad": "Nei: annen utfallsenhet"
+  },
+  {
+    "studie": "Jakobsen mfl. (2026), AER",
+    "utfall": "Verdiskaping",
+    "effekt": -0.1,
+    "enhet": "prosent ved +1 prosentpoeng toppformuesskatt",
+    "horisont": "Aggregert modellestimat",
+    "type": "Aggregert beregnet effekt",
+    "kilde_id": "K103",
+    "sammenlignbar_med_annen_rad": "Nei: annen utfallsenhet"
+  },
+  {
+    "studie": "Blandhol (2025), arbeidsnotat",
+    "utfall": "Langsiktig aggregert produksjon",
+    "effekt": -1.3,
+    "enhet": "prosent, strukturell likevektsmodell",
+    "horisont": "Lang sikt",
+    "type": "Modellsimulert langsiktseffekt",
+    "kilde_id": "K104",
+    "sammenlignbar_med_annen_rad": "Nei: annen skattereform og modellhorisont"
+  },
+  {
+    "studie": "Blandhol (2025), arbeidsnotat",
+    "utfall": "Omsetning hos utvandrede eieres foretak",
+    "effekt": -12.6,
+    "enhet": "prosent mot kontroll",
+    "horisont": "Studievindu",
+    "type": "Hendelsesstudie",
+    "kilde_id": "K104",
+    "sammenlignbar_med_annen_rad": "Nei: foretak hos utflyttere"
+  }
+]

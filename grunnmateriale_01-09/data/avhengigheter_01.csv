@@ -1,0 +1,13 @@
+﻿traad;tema;prioritet;leveranse;avhengigheter
+01;Masterarkitektur, metode, evidensregister;P0;Protokoll, frosne definisjoner, indeks, audit, kilde- og hypoteselogger;Alle
+02;Internasjonal ytelse og produktivitet;P0;Makropanel med datavintage og sektordefinisjoner;01 05 07 08
+03;Bolig, kreditt og kapital;P0;Formues-/kredittstrømmer, eksisterende/ny investering;01 04 05 09
+04;Generasjoner og livsløp;P0;Kohortpanel og G1–G5;01 03 09
+05;Foretak og innovasjon;P1;Bedriftsdynamikk og oppstarts-/skaleringspanel;01 02 03
+06;Skatt, eierskap og flytting;P1;Flytting/kapital/investering separat identifisert;01 05 10
+07;Offentlig ressursbruk / Baumol;P0;Kvalitetsjustert input-output-outcome;01 02 08 09
+08;Petroleum, SPU og statsfinanser;P0;Langsiktig fonds-/budsjettmodell;01 02 07 09
+09;Demografi, velferd og boligbehov;P1;Regionale kohort- og finansscenarier;01 03 04 08
+10;Systemdynamikk, motmodeller;P2;Kalibrering av koblinger og stresstester;02 03 04 05 06 07 08 09 11
+11;Politisk økonomi og insentiver;P2;Forvaltningsmekanismer og kontrollmodeller;01 07 10
+12;Radikale reformhypoteser;P2;Piloter, fordelings- og overgangseffekter;02 03 04 05 06 07 08 09 10 11

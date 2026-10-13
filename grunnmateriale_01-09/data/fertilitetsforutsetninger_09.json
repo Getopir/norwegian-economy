@@ -1,0 +1,34 @@
+[
+  {
+    "aar": 2026,
+    "MMM": 1.5,
+    "LMM": 1.43,
+    "HMM": 1.55,
+    "kilde_id": "K152",
+    "status": "SSB hypotese"
+  },
+  {
+    "aar": 2030,
+    "MMM": 1.56,
+    "LMM": 1.24,
+    "HMM": 1.81,
+    "kilde_id": "K152",
+    "status": "SSB hypotese"
+  },
+  {
+    "aar": 2050,
+    "MMM": 1.63,
+    "LMM": 1.19,
+    "HMM": 1.87,
+    "kilde_id": "K152",
+    "status": "SSB hypotese"
+  },
+  {
+    "aar": 2100,
+    "MMM": 1.64,
+    "LMM": 1.19,
+    "HMM": 1.89,
+    "kilde_id": "K152",
+    "status": "SSB hypotese"
+  }
+]

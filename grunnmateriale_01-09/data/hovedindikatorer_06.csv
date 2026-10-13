@@ -1,0 +1,14 @@
+﻿indikator,periode,populasjon,verdi,enhet,kilde_id,status,merknad
+Formuesskatt bunnfradrag enslig,2026,Personlige skattytere,1900000,NOK,K93,Vedtak 2026,Skattemessig nettoformue
+Formuesskatt første marginaltrinn,2026,Personlige skattytere,1.0,prosent,K93,Vedtak 2026,"1,9–21,5 mill. skattepliktig nettoformue"
+Formuesskatt topptrinn,2026,Personlige skattytere,1.1,prosent,K93,Vedtak 2026,"Over 21,5 mill."
+Utbytteskatt etter skjerming,2026,Personlige skattytere,37.84,prosent,K94,Vedtak 2026,Sats på skattepliktig utbytte
+Selskapsskatt,2026,"Vanlige aksjeselskaper, alminnelig inntekt",22,prosent,K109,Vedtak 2026,Andre sektorspesifikke regler finnes
+Formuesskattebetalere,2024,Bosatte personer 17+ år,701482,personer,K101,Historisk registertall,Ikke 2026-prognose
+Gjennomsnittlig formuesskatt blant betalere,2024,Bosatte personer med positiv formuesskatt,44300,NOK,K101,Historisk registertall,Ikke median
+Formuesskatt anslag samlet,2026,Personlige og upersonlige skattytere,36,mrd. NOK,K110,Anslag i forslag til budsjett 2027,"Omtrent, prognose"
+Anslått andel personlig formuesskatt,2026,Personlige skattytere,15.2,prosent,K110,Anslag,Ikke basert på 2024 antall
+Personer i spesialutvalg,2021–2025,NOU utvalg med høy formue,3565,personer,K97,NOU populasjon,"Utvalg, ikke Norges befolkning"
+Utflyttere i spesialutvalg sum,2021–2025,NOU utvalg med høy formue,141,personer,K97,Kohortens registrerte utflyttere,Ikke skattedrevet kausalt antall
+Innflyttere i spesialutvalg sum,2021–2025,NOU utvalg med høy formue,46,personer,K97,Kohortens registrerte innflyttere,Ikke samme som samlet formuendemigrasjon
+Samlet latent gevinst i skattesaker,2022,Utflyttingsskattesaker,133800,mill. NOK,K97,Administrativt fastsatt latent gevinst,Ikke realisert kapitalflukt

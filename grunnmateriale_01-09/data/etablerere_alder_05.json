@@ -1,0 +1,38 @@
+[
+  {
+    "aar": 2024,
+    "gruppe": "16–24 år",
+    "andel_prosent": 11.9,
+    "kilde_id": "K81",
+    "utvalg": "64 622 personlige etablerere av foretak",
+    "status": "Foreløpige estimater, usikkerhet større enn endelige",
+    "merknad": "Personer, ikke foretak. Aldersandeler avrundet."
+  },
+  {
+    "aar": 2024,
+    "gruppe": "25–44 år",
+    "andel_prosent": 53.8,
+    "kilde_id": "K81",
+    "utvalg": "64 622 personlige etablerere av foretak",
+    "status": "Foreløpige estimater, usikkerhet større enn endelige",
+    "merknad": "Personer, ikke foretak. Aldersandeler avrundet."
+  },
+  {
+    "aar": 2024,
+    "gruppe": "45–66 år",
+    "andel_prosent": 30.2,
+    "kilde_id": "K81",
+    "utvalg": "64 622 personlige etablerere av foretak",
+    "status": "Foreløpige estimater, usikkerhet større enn endelige",
+    "merknad": "Personer, ikke foretak. Aldersandeler avrundet."
+  },
+  {
+    "aar": 2024,
+    "gruppe": "67 år+",
+    "andel_prosent": 4.1,
+    "kilde_id": "K81",
+    "utvalg": "64 622 personlige etablerere av foretak",
+    "status": "Foreløpige estimater, usikkerhet større enn endelige",
+    "merknad": "Personer, ikke foretak. Aldersandeler avrundet."
+  }
+]

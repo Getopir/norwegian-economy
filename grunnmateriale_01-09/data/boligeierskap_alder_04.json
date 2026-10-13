@@ -1,0 +1,722 @@
+[
+  {
+    "alder": 25,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 28,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 25,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 27,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 25,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 32,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 25,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 31,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 25,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 10,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 25,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 8,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 26,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 35,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 26,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 34,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 26,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 41,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 26,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 40,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 26,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 13,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 26,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 11,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 27,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 39,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 27,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 41,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 27,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 47,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 27,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 48,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 27,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 15,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 27,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 13,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 28,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 44,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 28,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 46,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 28,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 53,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 28,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 54,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 28,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 19,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 28,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 17,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 29,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 47,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 29,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 50,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 29,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 57,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 29,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 59,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 29,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 22,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 29,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 19,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 30,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 50,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 30,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 53,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 30,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 61,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 30,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 63,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 30,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 25,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 30,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 23,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 31,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 53,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 31,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 56,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 31,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 64,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 31,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 66,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 31,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 28,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 31,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 26,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 32,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 56,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 32,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 59,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 32,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 66,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 32,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 68,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 32,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 29,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 32,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 29,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 33,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 58,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 33,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 60,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 33,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 68,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 33,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 71,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 33,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 32,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 33,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 32,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 34,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 60,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 34,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 62,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 34,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 70,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 34,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 72,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 34,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 33,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 34,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 34,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 35,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 61,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 35,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 63,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 35,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 71,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 35,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 74,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 35,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 35,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 35,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 36,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 36,
+    "aar": 2014,
+    "gruppe": "Alle",
+    "andel_prosent": 62,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 36,
+    "aar": 2023,
+    "gruppe": "Alle",
+    "andel_prosent": 63,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 36,
+    "aar": 2014,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 72,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 36,
+    "aar": 2023,
+    "gruppe": "Øvrig befolkning",
+    "andel_prosent": 75,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 36,
+    "aar": 2014,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 35,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  },
+  {
+    "alder": 36,
+    "aar": 2023,
+    "gruppe": "Innvandrere",
+    "andel_prosent": 38,
+    "kilde_id": "K08",
+    "populasjon": "Bosatte personer 25–36 år i privathusholdninger",
+    "maal": "Registrert med boligformue i skattemeldingen (punktstatus)",
+    "studiestatus": "Tverrsnitt, IKKE panel for samme personer"
+  }
+]

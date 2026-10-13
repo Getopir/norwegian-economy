@@ -1,0 +1,130 @@
+[
+  {
+    "id": "S01",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "SSB kvalitetskrav offisiell statistikk kvalitetshåndbok",
+    "formaalskategori": "Offisiell statistikk",
+    "inkluderte_kilde_id": "K24 K34",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S02",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "AEA data editor data and code availability policy replication economic journal",
+    "formaalskategori": "Reproduserbarhet",
+    "inkluderte_kilde_id": "K25",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S03",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "FAIR guiding principles scientific data 2016 Wilkinson",
+    "formaalskategori": "Dataforvaltning",
+    "inkluderte_kilde_id": "K26",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S04",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "OECD Economic Surveys Norway 2026 June productivity financial fiscal",
+    "formaalskategori": "Norsk diagnose",
+    "inkluderte_kilde_id": "K03",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S05",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "SSB Norsk økonomi vokste mer enn tidligere publisert produktivitet 2022",
+    "formaalskategori": "Statistiske revisjoner",
+    "inkluderte_kilde_id": "K02",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S06",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "site:ec.europa.eu eurostat European Statistics Code of Practice 2017",
+    "formaalskategori": "Harmonisering",
+    "inkluderte_kilde_id": "K35",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S07",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "site:ssb.no PxWebApi v2 statistikkbanken",
+    "formaalskategori": "Datatilgang",
+    "inkluderte_kilde_id": "K28",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S08",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "site:prisma-statement.org PRISMA 2020 systematic review checklist",
+    "formaalskategori": "Kunnskapsoversikt",
+    "inkluderte_kilde_id": "K30",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S09",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "site:strobe-statement.org STROBE observational studies checklist",
+    "formaalskategori": "Observasjonsdesign",
+    "inkluderte_kilde_id": "K31",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S10",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "site:imf.org fiscal transparency code long term sustainability scenarios",
+    "formaalskategori": "Finanspolitisk metode",
+    "inkluderte_kilde_id": "K32",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S11",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "site:aeaweb.org AI software manuscript author accountable",
+    "formaalskategori": "Forskningsetikk og KI",
+    "inkluderte_kilde_id": "K33",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S12",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "SSB kvalitetsrapport 2026 usikkerhet feilkilder",
+    "formaalskategori": "Norsk statistikkvalitet",
+    "inkluderte_kilde_id": "K23",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S13",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "SSB definisjon BNP Fastlands-Norge og kjedet volum",
+    "formaalskategori": "Variabeldefinisjoner",
+    "inkluderte_kilde_id": "K29",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S14",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "SSB unge uten formuende foreldre eier sjeldnere bolig Oslo",
+    "formaalskategori": "Kohortdata",
+    "inkluderte_kilde_id": "K08",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S15",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "Norges Bank Finansiell stabilitet 2026-1 gjeldsbelastning",
+    "formaalskategori": "Stabilitet og datavintage",
+    "inkluderte_kilde_id": "K10",
+    "utvalgstype": "Målrettet"
+  },
+  {
+    "id": "S16",
+    "dato": "2026-10-12",
+    "sokeuttrykk": "RNB 2026 nøkkeltall SPU strukturelt underskudd 579",
+    "formaalskategori": "Budsjettregnskap",
+    "inkluderte_kilde_id": "K05",
+    "utvalgstype": "Målrettet"
+  }
+]

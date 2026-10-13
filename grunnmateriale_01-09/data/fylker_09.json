@@ -1,0 +1,137 @@
+[
+  {
+    "fylke": "Østfold",
+    "observert_2026": 316448,
+    "framskrevet_2050": 359918,
+    "endring": 43470,
+    "prosent": 13.7,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Akershus",
+    "observert_2026": 749207,
+    "framskrevet_2050": 898014,
+    "endring": 148807,
+    "prosent": 19.9,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Oslo",
+    "observert_2026": 728714,
+    "framskrevet_2050": 844646,
+    "endring": 115932,
+    "prosent": 15.9,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Innlandet",
+    "observert_2026": 379488,
+    "framskrevet_2050": 397124,
+    "endring": 17636,
+    "prosent": 4.6,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Buskerud",
+    "observert_2026": 272981,
+    "framskrevet_2050": 307741,
+    "endring": 34760,
+    "prosent": 12.7,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Vestfold",
+    "observert_2026": 259332,
+    "framskrevet_2050": 288054,
+    "endring": 28722,
+    "prosent": 11.1,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Telemark",
+    "observert_2026": 177923,
+    "framskrevet_2050": 184526,
+    "endring": 6603,
+    "prosent": 3.7,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Agder",
+    "observert_2026": 323930,
+    "framskrevet_2050": 359654,
+    "endring": 35724,
+    "prosent": 11.0,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Rogaland",
+    "observert_2026": 508922,
+    "framskrevet_2050": 559177,
+    "endring": 50255,
+    "prosent": 9.9,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Vestland",
+    "observert_2026": 658342,
+    "framskrevet_2050": 699100,
+    "endring": 40758,
+    "prosent": 6.2,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Møre og Romsdal",
+    "observert_2026": 273169,
+    "framskrevet_2050": 277987,
+    "endring": 4818,
+    "prosent": 1.8,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Trøndelag",
+    "observert_2026": 489166,
+    "framskrevet_2050": 531553,
+    "endring": 42387,
+    "prosent": 8.7,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Nordland",
+    "observert_2026": 243272,
+    "framskrevet_2050": 235856,
+    "endring": -7416,
+    "prosent": -3.0,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Troms",
+    "observert_2026": 171218,
+    "framskrevet_2050": 175965,
+    "endring": 4747,
+    "prosent": 2.8,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  },
+  {
+    "fylke": "Finnmark",
+    "observert_2026": 75288,
+    "framskrevet_2050": 76544,
+    "endring": 1256,
+    "prosent": 1.7,
+    "kilde_id": "K153",
+    "status": "2026 observert; 2050 SSB regionalt hovedalternativ MMMM"
+  }
+]

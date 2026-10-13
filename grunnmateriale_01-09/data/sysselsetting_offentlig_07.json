@@ -1,0 +1,102 @@
+[
+  {
+    "aar": 2016,
+    "offentlig_jobber": 940980,
+    "privat_og_offentlig_eid_jobber": 1812516,
+    "offentlig_andel_jobber_prosent": 34.2,
+    "offentlig_andel_maanedsverk_prosent": 32.4,
+    "periode": "2016K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2017,
+    "offentlig_jobber": 954406,
+    "privat_og_offentlig_eid_jobber": 1838024,
+    "offentlig_andel_jobber_prosent": 34.2,
+    "offentlig_andel_maanedsverk_prosent": 32.2,
+    "periode": "2017K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2018,
+    "offentlig_jobber": 969214,
+    "privat_og_offentlig_eid_jobber": 1877981,
+    "offentlig_andel_jobber_prosent": 34.0,
+    "offentlig_andel_maanedsverk_prosent": 32.2,
+    "periode": "2018K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2019,
+    "offentlig_jobber": 980874,
+    "privat_og_offentlig_eid_jobber": 1923918,
+    "offentlig_andel_jobber_prosent": 33.8,
+    "offentlig_andel_maanedsverk_prosent": 31.9,
+    "periode": "2019K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2020,
+    "offentlig_jobber": 956947,
+    "privat_og_offentlig_eid_jobber": 1824142,
+    "offentlig_andel_jobber_prosent": 34.4,
+    "offentlig_andel_maanedsverk_prosent": 33.1,
+    "periode": "2020K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2021,
+    "offentlig_jobber": 997125,
+    "privat_og_offentlig_eid_jobber": 1845378,
+    "offentlig_andel_jobber_prosent": 35.1,
+    "offentlig_andel_maanedsverk_prosent": 33.6,
+    "periode": "2021K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2022,
+    "offentlig_jobber": 1015364,
+    "privat_og_offentlig_eid_jobber": 2022488,
+    "offentlig_andel_jobber_prosent": 33.4,
+    "offentlig_andel_maanedsverk_prosent": 32.3,
+    "periode": "2022K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2023,
+    "offentlig_jobber": 1033438,
+    "privat_og_offentlig_eid_jobber": 2052191,
+    "offentlig_andel_jobber_prosent": 33.5,
+    "offentlig_andel_maanedsverk_prosent": 32.5,
+    "periode": "2023K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2024,
+    "offentlig_jobber": 1048075,
+    "privat_og_offentlig_eid_jobber": 2064997,
+    "offentlig_andel_jobber_prosent": 33.7,
+    "offentlig_andel_maanedsverk_prosent": 32.8,
+    "periode": "2024K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  },
+  {
+    "aar": 2025,
+    "offentlig_jobber": 1052772,
+    "privat_og_offentlig_eid_jobber": 2089485,
+    "offentlig_andel_jobber_prosent": 33.5,
+    "offentlig_andel_maanedsverk_prosent": 32.8,
+    "periode": "2025K2",
+    "kilde_id": "K114",
+    "status": "Antall jobbforhold – ikke personer"
+  }
+]

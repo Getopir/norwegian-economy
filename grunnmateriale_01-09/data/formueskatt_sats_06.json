@@ -1,0 +1,68 @@
+[
+  {
+    "aar": 2026,
+    "eiendel": "Bankinnskudd og obligasjoner",
+    "formell_rabatt_prosent": 0,
+    "formell_verdsettingsandel_prosent": 100,
+    "effektiv_sats_trinn1_prosent": 1.0,
+    "effektiv_sats_trinn2_prosent": 1.1,
+    "kilde_id": "K93 K98",
+    "populasjon": "Personlig skattepliktig nettoformue i 2026",
+    "merknad": "Sats kun på formell verdsettingsandel, før bunnfradrag; ikke effektiv skatt på reell markedsverdi for alle objekter, gjeld eller særregler"
+  },
+  {
+    "aar": 2026,
+    "eiendel": "Aksjer",
+    "formell_rabatt_prosent": 20,
+    "formell_verdsettingsandel_prosent": 80,
+    "effektiv_sats_trinn1_prosent": 0.8,
+    "effektiv_sats_trinn2_prosent": 0.88,
+    "kilde_id": "K93 K98",
+    "populasjon": "Personlig skattepliktig nettoformue i 2026",
+    "merknad": "Sats kun på formell verdsettingsandel, før bunnfradrag; ikke effektiv skatt på reell markedsverdi for alle objekter, gjeld eller særregler"
+  },
+  {
+    "aar": 2026,
+    "eiendel": "Direkte eide driftsmidler",
+    "formell_rabatt_prosent": 30,
+    "formell_verdsettingsandel_prosent": 70,
+    "effektiv_sats_trinn1_prosent": 0.7,
+    "effektiv_sats_trinn2_prosent": 0.77,
+    "kilde_id": "K93 K98",
+    "populasjon": "Personlig skattepliktig nettoformue i 2026",
+    "merknad": "Sats kun på formell verdsettingsandel, før bunnfradrag; ikke effektiv skatt på reell markedsverdi for alle objekter, gjeld eller særregler"
+  },
+  {
+    "aar": 2026,
+    "eiendel": "Primærbolig, verdi opp til 14 mill.",
+    "formell_rabatt_prosent": 75,
+    "formell_verdsettingsandel_prosent": 25,
+    "effektiv_sats_trinn1_prosent": 0.25,
+    "effektiv_sats_trinn2_prosent": 0.275,
+    "kilde_id": "K93 K98",
+    "populasjon": "Personlig skattepliktig nettoformue i 2026",
+    "merknad": "Sats kun på formell verdsettingsandel, før bunnfradrag; ikke effektiv skatt på reell markedsverdi for alle objekter, gjeld eller særregler"
+  },
+  {
+    "aar": 2026,
+    "eiendel": "Sekundærbolig",
+    "formell_rabatt_prosent": 0,
+    "formell_verdsettingsandel_prosent": 100,
+    "effektiv_sats_trinn1_prosent": 1.0,
+    "effektiv_sats_trinn2_prosent": 1.1,
+    "kilde_id": "K93 K98",
+    "populasjon": "Personlig skattepliktig nettoformue i 2026",
+    "merknad": "Sats kun på formell verdsettingsandel, før bunnfradrag; ikke effektiv skatt på reell markedsverdi for alle objekter, gjeld eller særregler"
+  },
+  {
+    "aar": 2026,
+    "eiendel": "Næringseiendom",
+    "formell_rabatt_prosent": 20,
+    "formell_verdsettingsandel_prosent": 80,
+    "effektiv_sats_trinn1_prosent": 0.8,
+    "effektiv_sats_trinn2_prosent": 0.88,
+    "kilde_id": "K93 K98",
+    "populasjon": "Personlig skattepliktig nettoformue i 2026",
+    "merknad": "Sats kun på formell verdsettingsandel, før bunnfradrag; ikke effektiv skatt på reell markedsverdi for alle objekter, gjeld eller særregler"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "land": "Norge",
+    "aar": 2025,
+    "mill_eur": 170,
+    "kilde_id": "K82",
+    "fase": "Tidligfaseselskaper",
+    "status": "Avrundet bransjeobservasjon",
+    "definisjon": "Nordisk investeringsoversikt: porteføljeselskapets hjemland; fondenes nasjonalitet og tilordning følger PEREP/Invest Europe",
+    "forbehold": "Kilde fra bransjeforening; ikke alle finansieringsformer; ikke BNP-justert; øvrig Norden ikke uttømmende"
+  },
+  {
+    "land": "Danmark",
+    "aar": 2025,
+    "mill_eur": 530,
+    "kilde_id": "K82",
+    "fase": "Tidligfaseselskaper",
+    "status": "Avrundet bransjeobservasjon",
+    "definisjon": "Nordisk investeringsoversikt: porteføljeselskapets hjemland; fondenes nasjonalitet og tilordning følger PEREP/Invest Europe",
+    "forbehold": "Kilde fra bransjeforening; ikke alle finansieringsformer; ikke BNP-justert; øvrig Norden ikke uttømmende"
+  },
+  {
+    "land": "Sverige",
+    "aar": 2025,
+    "mill_eur": 1200,
+    "kilde_id": "K82",
+    "fase": "Tidligfaseselskaper",
+    "status": "Avrundet bransjeobservasjon",
+    "definisjon": "Nordisk investeringsoversikt: porteføljeselskapets hjemland; fondenes nasjonalitet og tilordning følger PEREP/Invest Europe",
+    "forbehold": "Kilde fra bransjeforening; ikke alle finansieringsformer; ikke BNP-justert; øvrig Norden ikke uttømmende"
+  }
+]

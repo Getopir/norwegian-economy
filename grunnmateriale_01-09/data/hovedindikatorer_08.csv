@@ -1,0 +1,19 @@
+﻿indikator;periode;verdi;enhet;kilde_id;status;merknad
+Fond realavkastning, annualisert 1998–2025;2025;4.34;prosent;K141;"Regnskapsrapport, historisk annualisert; ingen framtidsgaranti";"Regnskapsrapport, historisk annualisert; ingen framtidsgaranti"
+Fond realavkastning, annualisert 1998–H1 2026;2026-H1;4.51;prosent;K140;Regnskap, historisk annualisert;Regnskap, historisk annualisert
+Fond avkastning, 2025 i valutakurv;2025;15.11;prosent;K141;Historisk kalenderår;Historisk kalenderår
+Fond avkastning, 2026 første halvår i valutakurv;2026-H1;9.44;prosent;K140;Historisk halvår;Historisk halvår
+Kronekursbidrag til fondets verdi 2025;2025;-1155;mrd. NOK;K141;Regnskapseffekt fra valutakurser;Regnskapseffekt fra valutakurser
+Kronekursbidrag til fondets verdi 2026 H1;2026-H1;-427;mrd. NOK;K140;Regnskapseffekt fra valutakurser;Regnskapseffekt fra valutakurser
+Fondsverdi mot Fastlands-BNP, 2029;2029;4.9;multiplikator;K137;Betinget statlig framskriving;Betinget statlig framskriving
+Fondsverdi mot Fastlands-BNP, 2060;2060;4.5;multiplikator;K137;Betinget statlig framskriving;Betinget statlig framskriving
+Strukturelt underskudd som % av trend-Fastlands-BNP, 2001;2001;2.0;prosent;K137;Historisk finanspolitisk mål;Historisk finanspolitisk mål
+Inndekningsbehov i 2060, Perspektivmeldingen 2024;2060-vintage-2024;6.2;prosent Fastlands-BNP;K143;Betinget framskriving, ikke realisert tall;Betinget framskriving, ikke realisert tall
+Inndekningsbehov i 2060, Nasjonalbudsjettet 2026;2060-vintage-2025;5.9;prosent Fastlands-BNP;K125;Betinget framskriving, ikke realisert tall;Betinget framskriving, ikke realisert tall
+Inndekningsbehov i 2060, Nasjonalbudsjettet 2027;2060-vintage-2026;5.8;prosent Fastlands-BNP;K137;Betinget framskriving, ikke realisert tall;Betinget framskriving, ikke realisert tall
+Endring offentlig inntekt 2027–2060;2060;-2.2;prosentpoeng Fastlands-BNP;K137;Betinget framskriving;Betinget framskriving
+Endring offentlig utgift 2027–2060;2060;3.6;prosentpoeng Fastlands-BNP;K137;Betinget framskriving;Betinget framskriving
+Hypotetisk stresstest: ekstremvær;2025;-20;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"
+Hypotetisk stresstest: regional gjeldskrise;2025;-32;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"
+Hypotetisk stresstest: AI-korreksjon;2025;-35;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"
+Hypotetisk stresstest: fragmentert verden;2025;-37;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"

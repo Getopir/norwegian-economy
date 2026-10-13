@@ -1,0 +1,937 @@
+﻿serie;tema;indikator;periode;gruppe;verdi;enhet;kilde_id;datastatus;merknad
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2016;Norge;7510;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2017;Norge;8488;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2018;Norge;8256;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2019;Norge;10088;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2020;Norge;10914;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2021;Norge;12340;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2022;Norge;12429;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2023;Norge;15757;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2024;Norge;19742;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk;Statsfinanser;SPU – markedsverdi ved utgangen av året;2025;Norge;21268;mrd. NOK;K06;Regnskapsverdi;"Nominell NOK; ikke inflasjonskorrigert; variasjoner inkluderer valuta og fondstilførsler"
+fond_historikk_2026;Statsfinanser;SPU – markedsverdi ved utgangen av 1. halvår;2026-H1;Norge;22683;mrd. NOK;K06;Halvårsobservasjon;Ikke sammenlikn som fullført år
+skatt_2024;Skatt;Skatteinntekter i prosent av samlet BNP;2024;Norge;40.2;prosent;K17;Sammenliknbar OECD-statistikk;Målt mot samlet BNP, ikke Fastlands-BNP
+skatt_2024;Skatt;Skatteinntekter i prosent av samlet BNP;2024;OECD;34.1;prosent;K17;Sammenliknbar OECD-statistikk;Målt mot samlet BNP, ikke Fastlands-BNP
+skatt_2024;Skatt;Skatteinntekter i prosent av samlet BNP;2024;Danmark;45.2;prosent;K17;Sammenliknbar OECD-statistikk;Målt mot samlet BNP, ikke Fastlands-BNP
+skatt_2024;Skatt;Skatteinntekter i prosent av samlet BNP;2024;Sverige;41.4;prosent;K17;Sammenliknbar OECD-statistikk;Målt mot samlet BNP, ikke Fastlands-BNP
+skatt_2024;Skatt;Skatteinntekter i prosent av samlet BNP;2024;Finland;42.2;prosent;K17;Sammenliknbar OECD-statistikk;Målt mot samlet BNP, ikke Fastlands-BNP
+skatt_2000;Skatt;Skatteinntekter i prosent av samlet BNP;2000;Norge;41.8;prosent;K17;Historisk OECD-serie;
+boligeierskap_ung;Generasjoner;Registrert boligformue innen oppgitt alder;alder-25;Øverste 2 % foreldre;50;prosent;K08;Kohortanalyse;Årskull født 1988–1993, bosatt Norge 2005 og 2023
+boligeierskap_ung;Generasjoner;Registrert boligformue innen oppgitt alder;alder-25;Nederste 25 % foreldre;20;prosent;K08;Kohortanalyse;Årskull født 1988–1993, bosatt Norge 2005 og 2023
+boligeierskap_ung;Generasjoner;Registrert boligformue innen oppgitt alder;alder-30;Nederste 25 % foreldre;42;prosent;K08;Kohortanalyse;Årskull født 1988–1993, bosatt Norge 2005 og 2023
+boligeierskap_ung;Generasjoner;Registrert boligformue innen oppgitt alder;alder-30;Nederste 25 % – Oslo/Bærum;36;prosent;K08;Kohortanalyse;Årskull født 1988–1993, bosatt Norge 2005 og 2023
+boligeierskap_ung;Generasjoner;Registrert boligformue innen oppgitt alder;alder-30;Nederste 25 % – andre kommuner;46;prosent;K08;Kohortanalyse;Årskull født 1988–1993, bosatt Norge 2005 og 2023
+fastlandsvekst;Vekst;Fastlands-BNP, volumendring;2024;Norge;0.6;prosent årlig;K01;Foreløpig nasjonalregnskap;
+totalvekst;Vekst;Samlet BNP, volumendring;2024;Norge;1.4;prosent årlig;K01;Foreløpig nasjonalregnskap;
+timeverk_hele;Arbeid;Utførte timeverk, hele økonomien;2024;Norge;0.5;prosent årlig;K01;Foreløpig nasjonalregnskap;
+fastlandsvekst;Vekst;Fastlands-BNP, volumendring;2025;Norge;1.7;prosent årlig;K01;Foreløpig nasjonalregnskap;
+totalvekst;Vekst;Samlet BNP, volumendring;2025;Norge;1.1;prosent årlig;K01;Foreløpig nasjonalregnskap;
+timeverk_hele;Arbeid;Utførte timeverk, hele økonomien;2025;Norge;0.4;prosent årlig;K01;Foreløpig nasjonalregnskap;
+fastland_q2;Vekst;Fastlands-BNP, sesongjustert kvartalsvekst;2026-K2;Norge;0.3;prosent fra foregående kvartal;K01;Foreløpig;Ikke sammenlikn direkte med årlige vekstrater
+offutgift_2024;Offentlig sektor;Offentlige utgifter i prosent av samlet BNP;2024;Norge;49.6;prosent;K03;OECD-sammenlikning;Denne figuren benytter total-BNP i nevner i begge observasjoner
+offutgift_2024;Offentlig sektor;Offentlige utgifter i prosent av samlet BNP;2024;OECD;42.6;prosent;K03;OECD-sammenlikning;Denne figuren benytter total-BNP i nevner i begge observasjoner
+offjobber;Offentlig sektor;Andel jobbforhold i offentlig forvaltning;2025-K2;Norge;33.5;prosent av jobbforhold;K18;SSB register;Ikke andel personer eller årsverk
+formue_2024;Formue;Primærbolig;2024;Husholdninger;8245.797;mrd. NOK;K07;SSB beregnet markedsverdi;"Husholdninger med studenter er utelatt; observasjonene er beholdninger"
+formue_2024;Formue;Sekundærbolig;2024;Husholdninger;913.257;mrd. NOK;K07;SSB beregnet markedsverdi;"Husholdninger med studenter er utelatt; observasjonene er beholdninger"
+formue_2024;Formue;All realkapital;2024;Husholdninger;9937.819;mrd. NOK;K07;SSB beregnet markedsverdi;"Husholdninger med studenter er utelatt; observasjonene er beholdninger"
+formue_2024;Formue;Brutto finanskapital;2024;Husholdninger;4841.252;mrd. NOK;K07;SSB beregnet markedsverdi;"Husholdninger med studenter er utelatt; observasjonene er beholdninger"
+formue_2024;Formue;Samlet bruttoformue;2024;Husholdninger;14779.072;mrd. NOK;K07;SSB beregnet markedsverdi;"Husholdninger med studenter er utelatt; observasjonene er beholdninger"
+formue_2024;Formue;Samlet gjeld;2024;Husholdninger;4598.482;mrd. NOK;K07;SSB beregnet markedsverdi;"Husholdninger med studenter er utelatt; observasjonene er beholdninger"
+formue_2024;Formue;Beregnet nettoformue;2024;Husholdninger;10180.589;mrd. NOK;K07;SSB beregnet markedsverdi;"Husholdninger med studenter er utelatt; observasjonene er beholdninger"
+formue_bolig_andel;Formue;Primær- og sekundærbolig som andel av bruttoformue;2024;Husholdninger;61.972;prosent;K07;Egen beregning;(8 245 797 + 913 257)/14 779 072 * 100
+fruktbarhet;Demografi;Samlet fruktbarhetstall;2015;Norge;1.73;barn per kvinne;K11;SSB statistikk;"Utvalgte år; ikke komplett tidsserie"
+fruktbarhet;Demografi;Samlet fruktbarhetstall;2024;Norge;1.44;barn per kvinne;K11;SSB statistikk;"Utvalgte år; ikke komplett tidsserie"
+fruktbarhet;Demografi;Samlet fruktbarhetstall;2025;Norge;1.48;barn per kvinne;K11;SSB statistikk;"Utvalgte år; ikke komplett tidsserie"
+fodte;Demografi;Levendefødte;2024;Norge;54013;barn;K11;SSB statistikk;
+fodte;Demografi;Levendefødte;2025;Norge;55401;barn;K11;SSB statistikk;
+førstegangsalder;Demografi;Mors alder ved første fødsel;2015;Norge;28.9;år;K11;SSB statistikk;Utvalgte år
+førstegangsalder;Demografi;Mors alder ved første fødsel;2024;Norge;30.4;år;K11;SSB statistikk;Utvalgte år
+førstegangsalder;Demografi;Mors alder ved første fødsel;2025;Norge;30.4;år;K11;SSB statistikk;Utvalgte år
+fondsuttak;Statsfinanser;Strukturelt oljekorrigert underskudd, anslag i RNB 2026;2025;Norge;531;mrd. kroner i 2026-priser;K05;Budsjettanslag;Tall fra samme revisjon, ikke endelige regnskapstall
+fondsuttak;Statsfinanser;Strukturelt oljekorrigert underskudd, anslag i RNB 2026;2026;Norge;579;mrd. kroner i 2026-priser;K05;Budsjettanslag;Tall fra samme revisjon, ikke endelige regnskapstall
+fondsuttak_bn;Statsfinanser;Strukturelt underskudd som andel av trend-Fastlands-BNP;2026;Norge;12.6;prosent;K05;Budsjettanslag;
+fondsuttak_andel;Statsfinanser;Strukturelt underskudd som andel av SPU-verdi ved inngang;2026;Norge;2.7;prosent;K05;Budsjettanslag;
+budsjettgap;Statsfinanser;Langsiktig finanspolitisk inndekningsbehov, betinget referansebane;2060;Norge;6.2;prosent av Fastlands-BNP;K13;Offentlig scenario;Betinget framskriving, ikke prognose
+inntekts_gini;Ulikhet;Gini, ekvivalert inntekt etter skatt;2024;Norge;0.248;indeks;K07;SSB statistikk;
+formueandel;Ulikhet;Andel samlet beregnet nettoformue;2024;Øverste 1 %;21.7;prosent;K07;SSB statistikk;
+formueandel;Ulikhet;Andel samlet beregnet nettoformue;2024;Nederste 50 %;3.5;prosent;K07;SSB statistikk;
+gründere;Bedrifter;Personer som etablerte foretak;2024;Norge;64622;personer;K14;Foreløpig;Ikke lik nye foretak
+foretak_q2;Bedrifter;Nyregistrerte foretak;2026-K2;Norge;17052;foretak;K15;SSB foreløpig;Kvartalstall, ikke personer som etablerte foretak
+fou_2024;Bedrifter;Foretakssektorens egenutførte FoU;2024;Norge;46.6;mrd. NOK;K16;SSB FoU-telling;
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2025;Norge;2.2;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2008;Norge;3.1;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2008–2019;Norge;2.0;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2019–2025;Norge;1.1;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2024;Norge;1.0;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2025;Norge;0.6;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2025;Danmark;1.0;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2008;Danmark;0.6;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2008–2019;Danmark;1.6;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2019–2025;Danmark;0.6;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2024;Danmark;3.0;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2025;Danmark;1.9;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2025;Sverige;1.6;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2008;Sverige;2.7;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2008–2019;Sverige;1.5;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2019–2025;Sverige;0.0;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2024;Sverige;1.3;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2025;Sverige;2.5;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2025;Finland;0.8;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2008;Finland;2.7;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2008–2019;Finland;0.4;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2019–2025;Finland;-1.4;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2024;Finland;1.3;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2025;Finland;1.4;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2025;Nederland;1.6;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2008;Nederland;2.2;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2008–2019;Nederland;1.2;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2019–2025;Nederland;1.4;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2024;Nederland;-0.2;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2025;Nederland;2.7;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2025;Tyskland;1.9;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2008;Tyskland;3.4;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2008–2019;Tyskland;1.1;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2019–2025;Tyskland;1.0;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2024;Tyskland;-0.3;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2025;Tyskland;0.4;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2025;EU;1.1;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;1999–2008;EU;1.5;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2008–2019;EU;1.1;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2019–2025;EU;0.5;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2024;EU;0.2;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+eurostat_produk_02;Produktivitet;BNP per utført time, årlig realvekst;2025;EU;1.4;prosent per år;K38;Eurostat 2026;"Hele økonomien. Historisk datavintage 27. mars 2026; 2025 er enkeltår, øvrige perioder snitt."
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;1973–1983;Markedsrettet Fastlands-Norge utenom boligtjenester;2.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;1984–1991;Markedsrettet Fastlands-Norge utenom boligtjenester;2.2;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;1992–2003;Markedsrettet Fastlands-Norge utenom boligtjenester;2.8;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;2004–2011;Markedsrettet Fastlands-Norge utenom boligtjenester;1.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;2012–2016;Markedsrettet Fastlands-Norge utenom boligtjenester;1.3;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;2017–2024;Markedsrettet Fastlands-Norge utenom boligtjenester;0.9;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;1973–1983;Markedsrettet Fastlands-Norge utenom boligtjenester;1.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;1984–1991;Markedsrettet Fastlands-Norge utenom boligtjenester;1.5;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;1992–2003;Markedsrettet Fastlands-Norge utenom boligtjenester;2.2;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;2004–2011;Markedsrettet Fastlands-Norge utenom boligtjenester;1.2;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;2012–2016;Markedsrettet Fastlands-Norge utenom boligtjenester;1.0;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Markedsrettet Fastlands-Norge utenom boligtjenester;2017–2024;Markedsrettet Fastlands-Norge utenom boligtjenester;0.4;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Industri;1973–1983;Industri;2.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Industri;1984–1991;Industri;2.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Industri;1992–2003;Industri;2.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Industri;2004–2011;Industri;1.8;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Industri;2012–2016;Industri;0.9;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Industri;2017–2024;Industri;0.9;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Industri;1973–1983;Industri;1.5;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Industri;1984–1991;Industri;1.2;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Industri;1992–2003;Industri;1.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Industri;2004–2011;Industri;1.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Industri;2012–2016;Industri;0.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Industri;2017–2024;Industri;0.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Andre vareproduserende fastlandsnæringer;1973–1983;Andre vareproduserende fastlandsnæringer;3.5;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Andre vareproduserende fastlandsnæringer;1984–1991;Andre vareproduserende fastlandsnæringer;3.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Andre vareproduserende fastlandsnæringer;1992–2003;Andre vareproduserende fastlandsnæringer;1.9;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Andre vareproduserende fastlandsnæringer;2004–2011;Andre vareproduserende fastlandsnæringer;1.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Andre vareproduserende fastlandsnæringer;2012–2016;Andre vareproduserende fastlandsnæringer;0.5;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Andre vareproduserende fastlandsnæringer;2017–2024;Andre vareproduserende fastlandsnæringer;-0.9;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Andre vareproduserende fastlandsnæringer;1973–1983;Andre vareproduserende fastlandsnæringer;2.4;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Andre vareproduserende fastlandsnæringer;1984–1991;Andre vareproduserende fastlandsnæringer;2.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Andre vareproduserende fastlandsnæringer;1992–2003;Andre vareproduserende fastlandsnæringer;1.5;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Andre vareproduserende fastlandsnæringer;2004–2011;Andre vareproduserende fastlandsnæringer;1.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Andre vareproduserende fastlandsnæringer;2012–2016;Andre vareproduserende fastlandsnæringer;-0.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Andre vareproduserende fastlandsnæringer;2017–2024;Andre vareproduserende fastlandsnæringer;-1.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1973–1983;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2.0;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1984–1991;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1992–2003;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;3.3;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2004–2011;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.7;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2012–2016;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Arbeidsproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2017–2024;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1973–1983;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;0.4;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1984–1991;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1992–2003;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2.6;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2004–2011;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2012–2016;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.4;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+ssb_produk_02;Produktivitet;Total faktorproduktivitet, Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;2017–2024;Privat tjenesteyting i Fastlands-Norge utenom boligtjenester;1.1;prosent per år;K36;SSB periodetabell;Ikke sammenlikn nivå eller sektorsammensetning uten harmonisering.
+tbu_produk_02;Produktivitet;TBU Industri;2015–2024;Norsk industri;0.3;prosent per år;K39;TBU NOU 2026:5;"Handelsvektet sammenlikning; se nøyaktig definisjon og periode."
+tbu_produk_02;Produktivitet;TBU Industri;2015–2024;Handelspartnernes industri, handelsvektet;1.5;prosent per år;K39;TBU NOU 2026:5;"Handelsvektet sammenlikning; se nøyaktig definisjon og periode."
+tbu_produk_02;Produktivitet;TBU Industri;2015–2024;Relativ utvikling Norge / handelspartnere;-1.3;prosent per år;K39;TBU NOU 2026:5;"Handelsvektet sammenlikning; se nøyaktig definisjon og periode."
+tbu_produk_02;Produktivitet;TBU Hele Fastlands-Norge;2015–2024;Fastlands-Norge;1.0;prosent per år;K39;TBU NOU 2026:5;"Handelsvektet sammenlikning; se nøyaktig definisjon og periode."
+tbu_produk_02;Produktivitet;TBU Hele Fastlands-Norge;2015–2024;Handelspartnerne, handelsvektet;0.7;prosent per år;K39;TBU NOU 2026:5;"Handelsvektet sammenlikning; se nøyaktig definisjon og periode."
+tbu_produk_02;Produktivitet;TBU Hele Fastlands-Norge;2015–2024;Relativ utvikling Norge / handelspartnere;0.3;prosent per år;K39;TBU NOU 2026:5;"Handelsvektet sammenlikning; se nøyaktig definisjon og periode."
+tbu_produk_02;Produktivitet;TBU Kostnadskonkurranseevne;2016–2025;Relative timekostnader i felles valuta, markedsnæringer;-1.5;prosent per år;K39;TBU NOU 2026:5;"Handelsvektet sammenlikning; se nøyaktig definisjon og periode."
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;1997;Norge;5.0;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;1997;Norge;5.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;1998;Norge;3.9;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;1998;Norge;2.7;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;1999;Norge;2.5;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;1999;Norge;2.2;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2000;Norge;3.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2000;Norge;3.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2001;Norge;1.9;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2001;Norge;2.2;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2002;Norge;1.6;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2002;Norge;1.5;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2003;Norge;1.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2003;Norge;1.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2004;Norge;5.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2004;Norge;4.3;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2005;Norge;5.0;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2005;Norge;3.0;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2006;Norge;5.5;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2006;Norge;2.8;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2007;Norge;6.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2007;Norge;3.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2008;Norge;2.2;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2008;Norge;0.8;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2009;Norge;-1.3;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2009;Norge;-1.6;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2010;Norge;2.2;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2010;Norge;1.0;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2011;Norge;2.2;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2011;Norge;1.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2012;Norge;3.8;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2012;Norge;2.8;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2013;Norge;2.6;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2013;Norge;1.3;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2014;Norge;2.3;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2014;Norge;2.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2015;Norge;1.7;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2015;Norge;2.0;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2016;Norge;1.0;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2016;Norge;1.3;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2017;Norge;2.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2017;Norge;2.7;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2018;Norge;2.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2018;Norge;1.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2019;Norge;2.7;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2019;Norge;1.5;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2020;Norge;-2.7;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2020;Norge;-1.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2021;Norge;4.7;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2021;Norge;4.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2022;Norge;5.2;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2022;Norge;4.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2023;Norge;0.9;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2023;Norge;0.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2024;Norge;0.6;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2024;Norge;1.4;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_fastland_gdp_02;Vekst;Fastlands-BNP, årlig realvekst;2025;Norge;1.7;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+ssb_total_gdp_02;Vekst;Samlet BNP, årlig realvekst;2025;Norge;1.1;prosent fra året før;K41;SSB historisk serie;BNP, ikke BNP per utført time.
+utvidet_02_BNP per innbygger, PPP-indeks;Sammenlikning 02;BNP per innbygger, PPP-indeks;2025;Norge;159;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_BNP per innbygger, PPP-indeks;Sammenlikning 02;BNP per innbygger, PPP-indeks;2025;Sverige;111;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_BNP per innbygger, PPP-indeks;Sammenlikning 02;BNP per innbygger, PPP-indeks;2025;Danmark;127;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_BNP per innbygger, PPP-indeks;Sammenlikning 02;BNP per innbygger, PPP-indeks;2025;Finland;101;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_BNP per innbygger, PPP-indeks;Sammenlikning 02;BNP per innbygger, PPP-indeks;2025;Nederland;133;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_BNP per innbygger, PPP-indeks;Sammenlikning 02;BNP per innbygger, PPP-indeks;2025;Sveits;157;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Faktisk individuelt konsum, PPP-indeks;Sammenlikning 02;Faktisk individuelt konsum, PPP-indeks;2025;Norge;128;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Faktisk individuelt konsum, PPP-indeks;Sammenlikning 02;Faktisk individuelt konsum, PPP-indeks;2025;Sverige;103;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Faktisk individuelt konsum, PPP-indeks;Sammenlikning 02;Faktisk individuelt konsum, PPP-indeks;2025;Danmark;106;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Faktisk individuelt konsum, PPP-indeks;Sammenlikning 02;Faktisk individuelt konsum, PPP-indeks;2025;Finland;99;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Faktisk individuelt konsum, PPP-indeks;Sammenlikning 02;Faktisk individuelt konsum, PPP-indeks;2025;Nederland;119;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Faktisk individuelt konsum, PPP-indeks;Sammenlikning 02;Faktisk individuelt konsum, PPP-indeks;2025;Sveits;114;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Prisnivå for faktisk individuelt konsum;Sammenlikning 02;Prisnivå for faktisk individuelt konsum;2025;Norge;138.4;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Prisnivå for faktisk individuelt konsum;Sammenlikning 02;Prisnivå for faktisk individuelt konsum;2025;Sverige;128.4;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Prisnivå for faktisk individuelt konsum;Sammenlikning 02;Prisnivå for faktisk individuelt konsum;2025;Danmark;140.2;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Prisnivå for faktisk individuelt konsum;Sammenlikning 02;Prisnivå for faktisk individuelt konsum;2025;Finland;126.1;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Prisnivå for faktisk individuelt konsum;Sammenlikning 02;Prisnivå for faktisk individuelt konsum;2025;Nederland;120.4;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Prisnivå for faktisk individuelt konsum;Sammenlikning 02;Prisnivå for faktisk individuelt konsum;2025;Sveits;181.0;EU27=100;K42;Foreløpige tall juni 2026;"Ikke realvekst; kjøpekraftsparitet med EU27=100. Nivå inkl. direkte petroleum i BNP."
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2024;Norge;22.95;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2024;Sverige;24.75;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2024;Danmark;24.51;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2024;Finland;22.02;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2024;Nederland;20.25;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2024;Sveits;26.45;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2025;Norge;23.38;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2025;Sverige;24.96;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2025;Danmark;22.96;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2025;Finland;21.91;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2025;Nederland;20.11;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Bruttoinvesteringer i fast realkapital, andel av BNP;Sammenlikning 02;Bruttoinvesteringer i fast realkapital, andel av BNP;2025;Sveits;26.0;prosent av samlet BNP;K43;OECD-data per oktober 2026;Inkluderer bolig, offentlig sektor og petroleum. Utenlandsk sammenlikning på aggregert BNP.
+utvidet_02_Vareeksport totalt;Sammenlikning 02;Vareeksport totalt;2021;Norge;1493.1;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Råolje og naturgass, vareeksport;Sammenlikning 02;Råolje og naturgass, vareeksport;2021;Norge;929.1;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Fastlandseksport av varer;Sammenlikning 02;Fastlandseksport av varer;2021;Norge;546.7;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Vareeksport totalt;Sammenlikning 02;Vareeksport totalt;2022;Norge;2662.6;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Råolje og naturgass, vareeksport;Sammenlikning 02;Råolje og naturgass, vareeksport;2022;Norge;1964.5;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Fastlandseksport av varer;Sammenlikning 02;Fastlandseksport av varer;2022;Norge;685.0;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Vareeksport totalt;Sammenlikning 02;Vareeksport totalt;2023;Norge;1883.4;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Råolje og naturgass, vareeksport;Sammenlikning 02;Råolje og naturgass, vareeksport;2023;Norge;1166.0;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Fastlandseksport av varer;Sammenlikning 02;Fastlandseksport av varer;2023;Norge;708.2;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Vareeksport totalt;Sammenlikning 02;Vareeksport totalt;2024;Norge;1808.2;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Råolje og naturgass, vareeksport;Sammenlikning 02;Råolje og naturgass, vareeksport;2024;Norge;1078.4;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Fastlandseksport av varer;Sammenlikning 02;Fastlandseksport av varer;2024;Norge;711.1;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Vareeksport totalt;Sammenlikning 02;Vareeksport totalt;2025;Norge;1774.7;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Råolje og naturgass, vareeksport;Sammenlikning 02;Råolje og naturgass, vareeksport;2025;Norge;1005.2;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Fastlandseksport av varer;Sammenlikning 02;Fastlandseksport av varer;2025;Norge;765.6;milliarder løpende NOK;K44;Publisert 15. januar 2026;"Nominelle tall, påvirkes av valutakurs og verdensmarkedspriser; delserier avrundes."
+utvidet_02_Forklart FoU-intensitetsgap av ulik næringsstruktur;Sammenlikning 02;Forklart FoU-intensitetsgap av ulik næringsstruktur;2023;Sverige;45;prosent av opprinnelig FoU-intensitetsgap;K45;SSB-analyse 21. april 2026;"Omtrentlig; 2023 bransjegrunnlag, Norge vs sammenlikningsland; ikke årsakseffekt."
+utvidet_02_Forklart FoU-intensitetsgap av ulik næringsstruktur;Sammenlikning 02;Forklart FoU-intensitetsgap av ulik næringsstruktur;2023;Finland;55;prosent av opprinnelig FoU-intensitetsgap;K45;SSB-analyse 21. april 2026;"Omtrentlig; 2023 bransjegrunnlag, Norge vs sammenlikningsland; ikke årsakseffekt."
+utvidet_02_Gjenværende FoU-intensitetsgap etter bransje- og produktivitetsjustering;Sammenlikning 02;Gjenværende FoU-intensitetsgap etter bransje- og produktivitetsjustering;2023;Sverige;30;prosent av opprinnelig FoU-intensitetsgap;K45;SSB-analyse 21. april 2026;"Omtrentlig andel; ikke prosentpoeng og ikke årsakseffekt."
+utvidet_02_Gjenværende FoU-intensitetsgap etter bransje- og produktivitetsjustering;Sammenlikning 02;Gjenværende FoU-intensitetsgap etter bransje- og produktivitetsjustering;2023;Finland;15;prosent av opprinnelig FoU-intensitetsgap;K45;SSB-analyse 21. april 2026;"Omtrentlig andel; ikke prosentpoeng og ikke årsakseffekt."
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;1993;Hele landet;19.0;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;1994;Hele landet;21.5;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;1995;Hele landet;23.1;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;1996;Hele landet;25.1;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;1997;Hele landet;28.1;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;1998;Hele landet;31.3;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;1999;Hele landet;34.7;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2000;Hele landet;40.3;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2001;Hele landet;43.0;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2002;Hele landet;45.2;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2003;Hele landet;45.9;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2004;Hele landet;50.6;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2005;Hele landet;54.8;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2006;Hele landet;62.3;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2007;Hele landet;70.1;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2008;Hele landet;69.4;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2009;Hele landet;70.7;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2010;Hele landet;76.5;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2011;Hele landet;82.6;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2012;Hele landet;88.2;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2013;Hele landet;91.8;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2014;Hele landet;94.3;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2015;Hele landet;100.0;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2016;Hele landet;107.0;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2017;Hele landet;112.4;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2018;Hele landet;114.0;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2019;Hele landet;116.8;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2020;Hele landet;121.8;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2021;Hele landet;134.5;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2022;Hele landet;141.6;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2023;Hele landet;140.8;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2024;Hele landet;144.6;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+boligindeks_03;Bolig og kreditt;Prisindeks for brukte boliger;2025;Hele landet;152.5;2015=100;K47;Historisk SSB-observasjon;Hele landet, alle boligtyper, brukte boliger, årsverdi, nominell
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2000;Norge;23550;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2000;Norge;19534;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2001;Norge;25266;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2001;Norge;23400;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2002;Norge;22980;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2002;Norge;21744;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2003;Norge;23177;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2003;Norge;21405;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2004;Norge;29999;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2004;Norge;23609;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2005;Norge;31608;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2005;Norge;29544;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2006;Norge;33314;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2006;Norge;28554;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2007;Norge;32520;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2007;Norge;30970;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2008;Norge;25950;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2008;Norge;28640;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2009;Norge;19748;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2009;Norge;21783;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2010;Norge;21145;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2010;Norge;17832;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2011;Norge;27735;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2011;Norge;20046;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2012;Norge;30189;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2012;Norge;26267;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2013;Norge;30450;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2013;Norge;28496;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2014;Norge;27250;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2014;Norge;28100;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2015;Norge;31301;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2015;Norge;28137;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2016;Norge;36203;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2016;Norge;29394;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2017;Norge;35273;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2017;Norge;31557;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2018;Norge;31647;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2018;Norge;32844;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2019;Norge;31643;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2019;Norge;30373;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2020;Norge;29948;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2020;Norge;29604;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2021;Norge;30091;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2021;Norge;28397;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2022;Norge;29727;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2022;Norge;28056;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2023;Norge;22778;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2023;Norge;27975;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2024;Norge;18679;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2024;Norge;24032;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+byggetillatelse_03;Bolig og kreditt;Igangsettingstillatelser;2025;Norge;20184;boliger;K50;SSB-byggeareal;Ferdigstillelse er en egen årlig hendelse, ikke samme boliger som tillatelse
+fullfort_bolig_03;Bolig og kreditt;Fullførte boliger;2025;Norge;19498;boliger;K50;SSB-byggeareal;Fullført det aktuelle året
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Hele landet;4.4;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Oslo med Bærum;0.8;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Stavanger;10.9;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Bergen;11.3;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Trondheim;2.0;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Akershus uten Bærum;2.1;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Østfold, Buskerud, Vestfold og Telemark;2.1;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Innlandet;1.6;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Agder og Rogaland uten Stavanger;10.9;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Møre og Romsdal og Vestland uten Bergen;9.2;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Trøndelag uten Trondheim;1.7;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+regionbolig_03;Bolig og kreditt;Regional prisendring år/år;2025-K2–2026-K2;Nord-Norge;6.3;prosent;K49;SSB andre kvartal 2026;"Endring samme kvartal året før; ikke sesongjustert kvartalsendring"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-25;Foreldre nederste 25 %;20.4;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-25;Foreldre øverste 2 %;50.4;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-27;Foreldre nederste 25 %;29.8;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-27;Foreldre øverste 2 %;68.0;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-30;Foreldre nederste 25 %;42.3;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-30;Foreldre øverste 2 %;83.1;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-33;Foreldre nederste 25 %;51.5;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+generasjoner03;Generasjoner;Registrert med boligformue innen alder;alder-33;Foreldre øverste 2 %;89.4;prosent;K08;SSB register;"Observasjon for fødselskohorter 1988–1993; ikke en kausal effekt"
+hoved03;Bolig og kreditt;Markedsverdi husholdningenes boliger;2024;Norge;9159;mrd. kroner;K46;SSB/Finanstilsynet / egne regnestykker;"Kun boligeiendeler; ikke lik omsetningslikviditet"
+hoved03;Bolig og kreditt;Avgrenset nettoformue bolig pluss nettofinansielle fordringer;2024;Norge;11958;mrd. kroner;K46;SSB/Finanstilsynet / egne regnestykker;Ikke identisk med all husholdningsformue fra K07
+hoved03;Bolig og kreditt;Beregnet nettofinansielle fordringer, differanse;2024;Norge;2799;mrd. kroner;K46;SSB/Finanstilsynet / egne regnestykker;Egen differanse 11958−9159
+hoved03;Bolig og kreditt;Boligens andel av avgrenset nettoformue;2024;Norge;76.593;prosent;K46;SSB/Finanstilsynet / egne regnestykker;"Egen aritmetikk 9159/11958×100; ikke boligandel av bruttoformue"
+hoved03;Bolig og kreditt;Nettoinvestering i egen bolig;2024;Norge;57;mrd. kroner;K46;SSB/Finanstilsynet / egne regnestykker;Netto, ikke bruttoinvesteringer
+hoved03;Bolig og kreditt;Nettoinvestering i egen bolig;2025;Norge;51;mrd. kroner;K46;SSB/Finanstilsynet / egne regnestykker;Netto, ikke kredittilførsel
+hoved03;Bolig og kreditt;Nominell boligprisindeks;1993;Norge;19.0;2015=100;K47;SSB/Finanstilsynet / egne regnestykker;Bruktboliger
+hoved03;Bolig og kreditt;Nominell boligprisindeks;2025;Norge;152.5;2015=100;K47;SSB/Finanstilsynet / egne regnestykker;Bruktboliger
+hoved03;Bolig og kreditt;Nominell boligprisvekst;2015–2024;Norge;44.6;prosent;K47;SSB/Finanstilsynet / egne regnestykker;SSB sammenlikningsperiode
+hoved03;Bolig og kreditt;KPI-vekst;2015–2024;Norge;33.6;prosent;K47;SSB/Finanstilsynet / egne regnestykker;SSB sammenlikningsperiode
+hoved03;Bolig og kreditt;Reell boligprisvekst, akkumulert;2015–2024;Norge;8.234;prosent;K47;SSB/Finanstilsynet / egne regnestykker;Egen aritmetikk, 2015–2024 basert på de to publiserte prosenttallene
+hoved03;Bolig og kreditt;Nominell bruktboligprisfaktor;1993–2025;Norge;8.026;gangetall;K47;SSB/Finanstilsynet / egne regnestykker;Nominell relativ indeks, ikke real eller lønnsjustert
+hoved03;Bolig og kreditt;Igangsettingstillatelser;2025;Norge;20184;boliger;K50;SSB/Finanstilsynet / egne regnestykker;Tillatelser gitt i kalenderår, ikke nødvendigvis ferdigstilt
+hoved03;Bolig og kreditt;Fullførte boliger;2024;Norge;24032;boliger;K50;SSB/Finanstilsynet / egne regnestykker;Produksjonsstatistikk
+hoved03;Bolig og kreditt;Fullførte boliger;2025;Norge;19498;boliger;K50;SSB/Finanstilsynet / egne regnestykker;Produksjonsstatistikk
+hoved03;Bolig og kreditt;Eiendomsrelaterte næringer, andel bedriftsutlån;2026;Norge;56;prosent;K55;SSB/Finanstilsynet / egne regnestykker;Av innenlandske bedriftsutlån, inklusive eiendomsutvikling og bygg/anlegg
+hoved03;Bolig og kreditt;Gjeldsgrad, nye boliglånskunder;2025;Norge;329;prosent;K51;SSB/Finanstilsynet / egne regnestykker;Vektet snitt hos nye låntakere, ikke gjennomsnitt alle husholdninger
+hoved03;Bolig og kreditt;Gjeldsgrad førstegangskjøpere;2025;Norge;380;prosent;K52;SSB/Finanstilsynet / egne regnestykker;Undersøkelsens førstegangskjøpere
+hoved03;Bolig og kreditt;Belåningsgrad førstegangskjøpere;2025;Norge;77;prosent;K52;SSB/Finanstilsynet / egne regnestykker;Gjennomsnitt i utvalget
+hoved03;Bolig og kreditt;Eldre medlåntaker utenfor husholdningen, førstegangskjøpere;2025;Norge;13;prosent;K52;SSB/Finanstilsynet / egne regnestykker;Andel nye lån, ikke alle kjøpere
+hoved03;Bolig og kreditt;Eldre medlåntaker utenfor husholdningen, førstegangskjøpere;2024;Norge;8;prosent;K52;SSB/Finanstilsynet / egne regnestykker;Andel nye lån, ikke alle kjøpere
+hoved03;Bolig og kreditt;Utlånsforskrift maksimal belåningsgrad;2025;Norge;90;prosent;K53;SSB/Finanstilsynet / egne regnestykker;"Hovedregel; fleksibilitetskvoter"
+hoved03;Bolig og kreditt;Utlånsforskrift gjeldsgrad, tak;2025;Norge;5;ganger bruttoinntekt;K53;SSB/Finanstilsynet / egne regnestykker;"Hovedregel; fleksibilitetskvoter"
+hoved03;Bolig og kreditt;Primærbolig skattemessig verdsettingsandel inntil 14 mill.;2026;Norge;25;prosent;K57;SSB/Finanstilsynet / egne regnestykker;"Formuesskatteverdsettelse; ikke samlet marginalskatt"
+hoved03;Bolig og kreditt;Primærbolig skattemessig verdsettingsandel over 14 mill.;2026;Norge;70;prosent;K57;SSB/Finanstilsynet / egne regnestykker;Gjelder overskytende verdi
+hoved03;Bolig og kreditt;Sekundærbolig skattemessig verdsettingsandel;2026;Norge;100;prosent;K57;SSB/Finanstilsynet / egne regnestykker;Gjelder formuesskatteverdi
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 25 år;28;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 25 år;27;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 25 år;32;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 25 år;31;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 25 år;10;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 25 år;8;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 26 år;35;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 26 år;34;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 26 år;41;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 26 år;40;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 26 år;13;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 26 år;11;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 27 år;39;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 27 år;41;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 27 år;47;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 27 år;48;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 27 år;15;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 27 år;13;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 28 år;44;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 28 år;46;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 28 år;53;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 28 år;54;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 28 år;19;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 28 år;17;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 29 år;47;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 29 år;50;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 29 år;57;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 29 år;59;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 29 år;22;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 29 år;19;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 30 år;50;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 30 år;53;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 30 år;61;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 30 år;63;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 30 år;25;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 30 år;23;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 31 år;53;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 31 år;56;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 31 år;64;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 31 år;66;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 31 år;28;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 31 år;26;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 32 år;56;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 32 år;59;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 32 år;66;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 32 år;68;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 32 år;29;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 32 år;29;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 33 år;58;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 33 år;60;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 33 år;68;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 33 år;71;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 33 år;32;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 33 år;32;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 34 år;60;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 34 år;62;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 34 år;70;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 34 år;72;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 34 år;33;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 34 år;34;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 35 år;61;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 35 år;63;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 35 år;71;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 35 år;74;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 35 år;35;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 35 år;36;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Alle, 36 år;62;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Alle, 36 år;63;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Øvrig befolkning, 36 år;72;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Øvrig befolkning, 36 år;75;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2014;Innvandrere, 36 år;35;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_tverrsnitt_04;Generasjonsøkonomi;Har registrert boligformue ved alderen;2023;Innvandrere, 36 år;38;prosent;K08;SSB tverrsnitt;"2014/2023 er ulike befolkningsutvalg; ikke samme fødselskohort"
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;24;Foreldre nederste 25 %;16.0;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;24;Foreldre øverste 2 %;41.4;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;25;Foreldre nederste 25 %;20.4;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;25;Foreldre øverste 2 %;50.4;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;26;Foreldre nederste 25 %;25.2;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;26;Foreldre øverste 2 %;60.0;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;27;Foreldre nederste 25 %;29.8;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;27;Foreldre øverste 2 %;68.0;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;28;Foreldre nederste 25 %;34.6;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;28;Foreldre øverste 2 %;74.3;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;29;Foreldre nederste 25 %;38.5;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;29;Foreldre øverste 2 %;79.3;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;30;Foreldre nederste 25 %;42.3;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;30;Foreldre øverste 2 %;83.1;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;31;Foreldre nederste 25 %;45.8;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;31;Foreldre øverste 2 %;85.7;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;32;Foreldre nederste 25 %;48.9;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;32;Foreldre øverste 2 %;87.9;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;33;Foreldre nederste 25 %;51.5;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boligeier_foreldre_04;Generasjonsøkonomi;Registrert boligformue innen alder;33;Foreldre øverste 2 %;89.4;prosent;K08;SSB kohort;Kohorter 1988-1993, bosatt 2005 og 2023. Aldrene 31-33 omfatter bare fødte som har oppnådd alderen.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2011;25–44 år;6.9;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2011;67 år og eldre;2.3;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2011;Alle 16 år og eldre;5.7;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2012;25–44 år;7.7;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2012;67 år og eldre;1.5;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2012;Alle 16 år og eldre;5.4;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2013;25–44 år;6.3;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2013;67 år og eldre;1.9;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2013;Alle 16 år og eldre;5.0;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2014;25–44 år;6.4;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2014;67 år og eldre;1.8;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2014;Alle 16 år og eldre;5.1;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2015;25–44 år;6.6;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2015;67 år og eldre;1.6;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2015;Alle 16 år og eldre;5.4;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2016;25–44 år;6.7;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2016;67 år og eldre;2.3;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2016;Alle 16 år og eldre;4.9;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2017;25–44 år;7.9;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2017;67 år og eldre;2.1;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2017;Alle 16 år og eldre;5.3;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2018;25–44 år;6.4;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2018;67 år og eldre;2.1;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2018;Alle 16 år og eldre;4.8;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2019;25–44 år;6.8;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2019;67 år og eldre;3.6;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2019;Alle 16 år og eldre;6.0;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2020;25–44 år;6.1;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2020;67 år og eldre;2.0;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2020;Alle 16 år og eldre;4.8;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2023;25–44 år;9.4;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2023;67 år og eldre;3.1;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2023;Alle 16 år og eldre;7.2;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2025;25–44 år;11.8;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2025;67 år og eldre;3.7;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+boutgifter_byre_04;Generasjonsøkonomi;Svært tyngende boutgifter;2025;Alle 16 år og eldre;8.7;prosent;K69;SSB EU-SILC;Utvalgsundersøkelse, ikke kohortstudie. Manglende år ikke interpolert.
+indikator_04;Generasjonsøkonomi;Boligandel 30-åringer;2014;Alle 30-åringer;50;prosent;K08;SSB/Finanstilsynet, transkripsjon;Tverrsnitt 2014
+indikator_04;Generasjonsøkonomi;Boligandel 30-åringer;2023;Alle 30-åringer;53;prosent;K08;SSB/Finanstilsynet, transkripsjon;Tverrsnitt 2023
+indikator_04;Generasjonsøkonomi;Boligandel innen 25 år;1988–1993;Nederste foreldreformueskvartil;20.4;prosent;K08;SSB/Finanstilsynet, transkripsjon;Kumulativ observasjon ikke kausal
+indikator_04;Generasjonsøkonomi;Boligandel innen 25 år;1988–1993;Øverste foreldreformuesprosent;50.4;prosent;K08;SSB/Finanstilsynet, transkripsjon;Kumulativ observasjon ikke kausal
+indikator_04;Generasjonsøkonomi;Boligandel innen 30 år;1988–1993;Nederste foreldreformueskvartil;42.3;prosent;K08;SSB/Finanstilsynet, transkripsjon;Kumulativ observasjon ikke kausal
+indikator_04;Generasjonsøkonomi;Boligandel innen 30 år;1988–1993;Øverste foreldreformuesprosent;83.1;prosent;K08;SSB/Finanstilsynet, transkripsjon;Kumulativ observasjon ikke kausal
+indikator_04;Generasjonsøkonomi;Gjennomsnittlig gjeldsgrad, førstegangskjøpere;2025;Ny boliglån i undersøkelsen;380;prosent av brutto inntekt;K52;SSB/Finanstilsynet, transkripsjon;"Utvalg av lån; ikke alle unge"
+indikator_04;Generasjonsøkonomi;Gjennomsnittlig belåningsgrad, førstegangskjøpere;2025;Ny boliglån i undersøkelsen;77;prosent;K52;SSB/Finanstilsynet, transkripsjon;Utvalg av lån
+indikator_04;Generasjonsøkonomi;Lån med eldre medlåntaker utenfor husstand;2025;Førstegangskjøpere;13;prosent av lån;K52;SSB/Finanstilsynet, transkripsjon;Ikke direkte mål på alle typer foreldrehjelp
+indikator_04;Generasjonsøkonomi;Lån med eldre medlåntaker utenfor husstand;2024;Førstegangskjøpere;8;prosent av lån;K52;SSB/Finanstilsynet, transkripsjon;Sammenlignbart indikator i samme undersøkelse, ikke foreldreprosent
+indikator_04;Generasjonsøkonomi;Andel nye lån med svak likviditetsbuffer;2025;Førstegangskjøpere;38;prosent;K52;SSB/Finanstilsynet, transkripsjon;Buffer 0–4000 kroner etter regulatorisk stresstest
+indikator_04;Generasjonsøkonomi;Andel nye lån med utilstrekkelig betjeningsevne;2025;Førstegangskjøpere;5;prosent;K52;SSB/Finanstilsynet, transkripsjon;Stresstest i boliglånsundersøkelsen
+indikator_04;Generasjonsøkonomi;Beregnet median nettoformue husholdninger;2024;Hovedinntektstaker under 25 år;24000;kroner;K54;SSB/Finanstilsynet, transkripsjon;Husholdninger, studenter utelatt
+indikator_04;Generasjonsøkonomi;Beregnet median nettoformue husholdninger;2024;Hovedinntektstaker 67–79 år;4200000;kroner;K54;SSB/Finanstilsynet, transkripsjon;Husholdninger, studenter utelatt
+indikator_04;Generasjonsøkonomi;Beregnet median nettoformue husholdninger;2024;Alle husholdninger;2000000;kroner;K54;SSB/Finanstilsynet, transkripsjon;Husholdninger, studenter utelatt
+indikator_04;Generasjonsøkonomi;Median inntekt etter skatt;2024;Alle husholdninger;676100;kroner;K67;SSB/Finanstilsynet, transkripsjon;Nominell husholdningsinntekt, studenter utelatt
+indikator_04;Generasjonsøkonomi;Median inntekt etter skatt;2024;Aleneboende under 30 år;363900;kroner;K68;SSB/Finanstilsynet, transkripsjon;"Nominell husholdningsinntekt; ikke lønn og ikke jevnførte husholdningsstørrelser"
+indikator_04;Generasjonsøkonomi;Median inntekt etter skatt;2024;Par uten barn eldste under 30 år;774200;kroner;K68;SSB/Finanstilsynet, transkripsjon;"Nominell husholdningsinntekt; ikke lønn og ikke jevnførte husholdningsstørrelser"
+indikator_04;Generasjonsøkonomi;Realvekst median inntekt etter skatt;2024;Alle husholdninger;3.2;prosent;K67;SSB/Finanstilsynet, transkripsjon;Mot 2023, eksklusive studenthusholdninger
+indikator_04;Generasjonsøkonomi;Boutgifter svært tyngende;2025;25–44 år;11.8;prosent;K69;SSB/Finanstilsynet, transkripsjon;EU-SILC, datagrunnlag etter alder, ikke kohorter
+indikator_04;Generasjonsøkonomi;Boutgifter svært tyngende;2025;67 år+;3.7;prosent;K69;SSB/Finanstilsynet, transkripsjon;EU-SILC, datagrunnlag etter alder, ikke kohorter
+indikator_04;Generasjonsøkonomi;NEET;2025;15–29 år;10.1;prosent;K71;SSB/Finanstilsynet, transkripsjon;Foreløpige registertall, måledefinisjon skiller seg fra AKU
+indikator_04;Generasjonsøkonomi;NEET;2025;15–29 år;105300;personer avrundet;K71;SSB/Finanstilsynet, transkripsjon;"Foreløpig talldato; avrunding"
+indikator_04;Generasjonsøkonomi;Samlet fruktbarhetstall;2009;Norge;1.98;barn per kvinne;K11;SSB/Finanstilsynet, transkripsjon;"Periodemål; ikke ferdig barnetall for kvinner født i 2009"
+indikator_04;Generasjonsøkonomi;Samlet fruktbarhetstall;2023;Norge;1.4;barn per kvinne;K11;SSB/Finanstilsynet, transkripsjon;Periodemål
+indikator_04;Generasjonsøkonomi;Samlet fruktbarhetstall;2025;Norge;1.48;barn per kvinne;K11;SSB/Finanstilsynet, transkripsjon;Periodemål
+indikator_04;Generasjonsøkonomi;Alder ved første fødsel;2025;Førstegangsfødende mødre;30.4;år;K11;SSB/Finanstilsynet, transkripsjon;Periodemål
+indikator_04;Generasjonsøkonomi;Alder ved første fødsel;2025;Førstegangsfødende fedre;32.3;år;K11;SSB/Finanstilsynet, transkripsjon;Periodemål
+indikator_04;Generasjonsøkonomi;Samlet disponibel realinntekt husholdningene;2025;Hele husholdningssektoren;3.2;prosent årsendring;K74;SSB/Finanstilsynet, transkripsjon;Nasjonalregnskapsaggregat, ikke kohortspesifikk
+foretak_kvartal_05;Entreprenørskap;Nyregistrerte foretak;2024-K4;Norge;15625;registreringer;K77;SSB publisert kvartalsobservasjon;"Foretak kvartal; ikke lik nyetablerte aktive foretak. Metodeendring 2026."
+foretak_kvartal_05;Entreprenørskap;Nyregistrerte foretak;2025-K1;Norge;16525;registreringer;K77;SSB publisert kvartalsobservasjon;"Foretak kvartal; ikke lik nyetablerte aktive foretak. Metodeendring 2026."
+foretak_kvartal_05;Entreprenørskap;Nyregistrerte foretak;2025-K2;Norge;14112;registreringer;K77;SSB publisert kvartalsobservasjon;"Foretak kvartal; ikke lik nyetablerte aktive foretak. Metodeendring 2026."
+foretak_kvartal_05;Entreprenørskap;Nyregistrerte foretak;2025-K3;Norge;16276;registreringer;K77;SSB publisert kvartalsobservasjon;"Foretak kvartal; ikke lik nyetablerte aktive foretak. Metodeendring 2026."
+foretak_kvartal_05;Entreprenørskap;Nyregistrerte foretak;2025-K4;Norge;15495;registreringer;K77;SSB publisert kvartalsobservasjon;"Foretak kvartal; ikke lik nyetablerte aktive foretak. Metodeendring 2026."
+foretak_kvartal_05;Entreprenørskap;Nyregistrerte foretak;2026-K1;Norge;18092;registreringer;K77;SSB publisert kvartalsobservasjon;"Foretak kvartal; ikke lik nyetablerte aktive foretak. Metodeendring 2026."
+foretak_kvartal_05;Entreprenørskap;Nyregistrerte foretak;2026-K2;Norge;17052;registreringer;K77;SSB publisert kvartalsobservasjon;"Foretak kvartal; ikke lik nyetablerte aktive foretak. Metodeendring 2026."
+venture_norden_05;Risikokapital;Tidligfaseinvesteringer;2025;Norge;170;millioner euro;K82;NVCA/Menon, bransjestatistikk;"Foretakets hjemland, avrundet; ikke BNP-justert"
+venture_norden_05;Risikokapital;Tidligfaseinvesteringer;2025;Danmark;530;millioner euro;K82;NVCA/Menon, bransjestatistikk;"Foretakets hjemland, avrundet; ikke BNP-justert"
+venture_norden_05;Risikokapital;Tidligfaseinvesteringer;2025;Sverige;1200;millioner euro;K82;NVCA/Menon, bransjestatistikk;"Foretakets hjemland, avrundet; ikke BNP-justert"
+etablerere_alder_05;Entreprenørskap;Aldersandel personlige etablerere;2024;16–24 år;11.9;prosent;K81;SSB foreløpige estimater;Personer, ikke etablerte foretak
+etablerere_alder_05;Entreprenørskap;Aldersandel personlige etablerere;2024;25–44 år;53.8;prosent;K81;SSB foreløpige estimater;Personer, ikke etablerte foretak
+etablerere_alder_05;Entreprenørskap;Aldersandel personlige etablerere;2024;45–66 år;30.2;prosent;K81;SSB foreløpige estimater;Personer, ikke etablerte foretak
+etablerere_alder_05;Entreprenørskap;Aldersandel personlige etablerere;2024;67 år+;4.1;prosent;K81;SSB foreløpige estimater;Personer, ikke etablerte foretak
+lovende_startups_vekst_05;Entreprenørskap;Lovende startups i fortsatt vekst;3;Selektert oppstartskohort;23;prosent;K79;SSB forskning, omtrentlig;"Ikke nasjonal niårsoverlevelse; andelen scaleup er inkludert i vekst"
+lovende_startups_scaleup_05;Entreprenørskap;Lovende startups blitt scaleups;3;Selektert oppstartskohort;6;prosent;K79;SSB forskning, omtrentlig;Kan ikke summeres med andelen i fortsatt vekst
+lovende_startups_vekst_05;Entreprenørskap;Lovende startups i fortsatt vekst;6;Selektert oppstartskohort;15;prosent;K79;SSB forskning, omtrentlig;"Ikke nasjonal niårsoverlevelse; andelen scaleup er inkludert i vekst"
+lovende_startups_scaleup_05;Entreprenørskap;Lovende startups blitt scaleups;6;Selektert oppstartskohort;3;prosent;K79;SSB forskning, omtrentlig;Kan ikke summeres med andelen i fortsatt vekst
+lovende_startups_vekst_05;Entreprenørskap;Lovende startups i fortsatt vekst;9;Selektert oppstartskohort;10;prosent;K79;SSB forskning, omtrentlig;"Ikke nasjonal niårsoverlevelse; andelen scaleup er inkludert i vekst"
+lovende_startups_scaleup_05;Entreprenørskap;Lovende startups blitt scaleups;9;Selektert oppstartskohort;2.5;prosent;K79;SSB forskning, omtrentlig;Kan ikke summeres med andelen i fortsatt vekst
+arbeidsledighet_15_24_05;Arbeid;AKU-arbeidsledighet 15–24 år;2023;Unge i arbeidsstyrken;11.1;prosent;K87;SSB skole, historiske AKU-verdier;"Nevner er ungdom i arbeidsstyrken; ikke NEET-populasjon"
+arbeidsledighet_15_24_05;Arbeid;AKU-arbeidsledighet 15–24 år;2024;Unge i arbeidsstyrken;12.1;prosent;K87;SSB skole, historiske AKU-verdier;"Nevner er ungdom i arbeidsstyrken; ikke NEET-populasjon"
+arbeidsledighet_15_24_05;Arbeid;AKU-arbeidsledighet 15–24 år;2025;Unge i arbeidsstyrken;14.0;prosent;K87;SSB skole, historiske AKU-verdier;"Nevner er ungdom i arbeidsstyrken; ikke NEET-populasjon"
+nyutd_sysselsetting_05;Arbeid;Sysselsetting blant nyutdannede;2024;20–34 år, nyutdannede;89.9;prosent;K88;SSB AKU;Annen populasjon enn andel i akademiske yrker
+nyutd_akademiske_05;Arbeid;Nyutdannede med høyere utdanning i akademiske yrker;2024;Nyutdannede med høyere utdanning;83.0;prosent;K88;SSB AKU;Forskjellig nevner fra sysselsetting blant alle nyutdannede
+nyutd_sysselsetting_05;Arbeid;Sysselsetting blant nyutdannede;2025;20–34 år, nyutdannede;88.6;prosent;K88;SSB AKU;Annen populasjon enn andel i akademiske yrker
+nyutd_akademiske_05;Arbeid;Nyutdannede med høyere utdanning i akademiske yrker;2025;Nyutdannede med høyere utdanning;78.8;prosent;K88;SSB AKU;Forskjellig nevner fra sysselsetting blant alle nyutdannede
+hovedindikatorer_05;Entreprenørskap og arbeid;Nye registrerte foretak;2026-K2;Norge;17052;foretak;K77;Hovedobservasjon 05;Kvartal, 20,8% over 2025-K2, metodeendring i 2026
+hovedindikatorer_05;Entreprenørskap og arbeid;Registreringer foretak;2025-K2;Norge;14112;foretak;K77;Hovedobservasjon 05;Sammenligningskvartal
+hovedindikatorer_05;Entreprenørskap og arbeid;Aktive foretak;2023;Norge;333846;foretak;K77;Hovedobservasjon 05;"Årsstatistikk; ulik populasjon fra kvartalsregistreringer"
+hovedindikatorer_05;Entreprenørskap og arbeid;Aktive foretak uten ansatte eller rapportering;2023;Norge;149303;foretak;K77;Hovedobservasjon 05;Kategori summerer ikke med øvrige foretak i figurer uten samme tabell
+hovedindikatorer_05;Entreprenørskap og arbeid;Aktive nyetablerte 2018;2018;Norge;29481;foretak;K77;Hovedobservasjon 05;Egen årsdemografikohort, ikke 2026-kvartalsregistrering
+hovedindikatorer_05;Entreprenørskap og arbeid;Overlevd fem år i 2018-kohorten;2018+5;Norge;14097;foretak;K77;Hovedobservasjon 05;SSB tabell 5, femårs overlevelse
+hovedindikatorer_05;Entreprenørskap og arbeid;Personlige etablerere 2024;2024;Norge;64622;personer;K81;Hovedobservasjon 05;Foreløpige anslag
+hovedindikatorer_05;Entreprenørskap og arbeid;Foretakenes egenutførte FoU;2024;Norge;46.6;mrd. kroner;K84;Hovedobservasjon 05;Foretak med minst ti sysselsatte
+hovedindikatorer_05;Entreprenørskap og arbeid;Reell FoU-endring;2024;Norge;-6;prosent;K84;Hovedobservasjon 05;2023 til 2024 realendring
+hovedindikatorer_05;Entreprenørskap og arbeid;FoU-årsverk;2024;Norge;25600;årsverk;K84;Hovedobservasjon 05;Omtrent 25 600
+hovedindikatorer_05;Entreprenørskap og arbeid;Innovasjonsaktivitet;2022–2024;Foretak i SSBs innovasjonsundersøkelse;60;prosent;K85;Hovedobservasjon 05;"5+ sysselsatte; alle næringer i utvalget"
+hovedindikatorer_05;Entreprenørskap og arbeid;Produkt- eller prosessinnovasjon;2022–2024;Foretak i SSBs innovasjonsundersøkelse;57;prosent;K85;Hovedobservasjon 05;Overlapp med andre innovasjonsmål
+hovedindikatorer_05;Entreprenørskap og arbeid;NEET personer;2025;15–29 år;105318;personer;K86;Hovedobservasjon 05;Registerbasert NEET, ikke AKU-ledige
+hovedindikatorer_05;Entreprenørskap og arbeid;NEET-andel;2025;15–29 år;10.1;prosent;K86;Hovedobservasjon 05;Registerbasert populasjon
+hovedindikatorer_05;Entreprenørskap og arbeid;Sysselsetting nyutdannede;2025;20–34 år;88.6;prosent;K88;Hovedobservasjon 05;AKU nyutdannede, ned 1.3 prosentpoeng
+hovedindikatorer_05;Entreprenørskap og arbeid;Pensjonskapital fondsandel;2026-studie;Norge;18;prosent av kapital i PE/VC-fond;K83;Hovedobservasjon 05;Oppdragsfinansiert bransjerapport, ikke andel av pensjonsformuen
+hovedindikatorer_05;Entreprenørskap og arbeid;Pensjonskapital fondsandel;2026-studie;Danmark;21.3;prosent av kapital i PE/VC-fond;K83;Hovedobservasjon 05;Samme studie/definisjon
+hovedindikatorer_05;Entreprenørskap og arbeid;Pensjonskapital fondsandel;2026-studie;Sverige;25.7;prosent av kapital i PE/VC-fond;K83;Hovedobservasjon 05;Samme studie/definisjon
+hovedindikatorer_05;Entreprenørskap og arbeid;Pensjonskapital fondsandel;2026-studie;Finland;27.8;prosent av kapital i PE/VC-fond;K83;Hovedobservasjon 05;Samme studie/definisjon
+utflytting_formuende_06;Eierskap og skatt;Registrert utflytting i utvalgt formuespopulasjon;2021;Utvalg 3 565 personer;16;personer;K97;NOU tabell 3.2 / administrativt utvalg;Ikke alle utflyttere og ikke skatteindusert kausalt antall
+innflytting_formuende_06;Eierskap og skatt;Registrert innflytting i utvalgt formuespopulasjon;2021;Utvalg 3 565 personer;14;personer;K97;NOU tabell 3.3 / administrativt utvalg;"Avgrenset utvalg; forskjellig flytteår"
+formuesskatt_utflyttede_06;Eierskap og skatt;Formuesskatt betalt foregående år av utflyttere;2021;Utvalg 3 565 personer;22;mill. kr;K97;NOU tabell 3.2;Historisk skatt på personer som flyttet, IKKE kausalt fremtidig skattetap
+utflytting_formuende_06;Eierskap og skatt;Registrert utflytting i utvalgt formuespopulasjon;2022;Utvalg 3 565 personer;46;personer;K97;NOU tabell 3.2 / administrativt utvalg;Ikke alle utflyttere og ikke skatteindusert kausalt antall
+innflytting_formuende_06;Eierskap og skatt;Registrert innflytting i utvalgt formuespopulasjon;2022;Utvalg 3 565 personer;10;personer;K97;NOU tabell 3.3 / administrativt utvalg;"Avgrenset utvalg; forskjellig flytteår"
+formuesskatt_utflyttede_06;Eierskap og skatt;Formuesskatt betalt foregående år av utflyttere;2022;Utvalg 3 565 personer;285;mill. kr;K97;NOU tabell 3.2;Historisk skatt på personer som flyttet, IKKE kausalt fremtidig skattetap
+utflytting_formuende_06;Eierskap og skatt;Registrert utflytting i utvalgt formuespopulasjon;2023;Utvalg 3 565 personer;46;personer;K97;NOU tabell 3.2 / administrativt utvalg;Ikke alle utflyttere og ikke skatteindusert kausalt antall
+innflytting_formuende_06;Eierskap og skatt;Registrert innflytting i utvalgt formuespopulasjon;2023;Utvalg 3 565 personer;8;personer;K97;NOU tabell 3.3 / administrativt utvalg;"Avgrenset utvalg; forskjellig flytteår"
+formuesskatt_utflyttede_06;Eierskap og skatt;Formuesskatt betalt foregående år av utflyttere;2023;Utvalg 3 565 personer;130;mill. kr;K97;NOU tabell 3.2;Historisk skatt på personer som flyttet, IKKE kausalt fremtidig skattetap
+utflytting_formuende_06;Eierskap og skatt;Registrert utflytting i utvalgt formuespopulasjon;2024;Utvalg 3 565 personer;16;personer;K97;NOU tabell 3.2 / administrativt utvalg;Ikke alle utflyttere og ikke skatteindusert kausalt antall
+innflytting_formuende_06;Eierskap og skatt;Registrert innflytting i utvalgt formuespopulasjon;2024;Utvalg 3 565 personer;5;personer;K97;NOU tabell 3.3 / administrativt utvalg;"Avgrenset utvalg; forskjellig flytteår"
+formuesskatt_utflyttede_06;Eierskap og skatt;Formuesskatt betalt foregående år av utflyttere;2024;Utvalg 3 565 personer;57;mill. kr;K97;NOU tabell 3.2;Historisk skatt på personer som flyttet, IKKE kausalt fremtidig skattetap
+utflytting_formuende_06;Eierskap og skatt;Registrert utflytting i utvalgt formuespopulasjon;2025;Utvalg 3 565 personer;17;personer;K97;NOU tabell 3.2 / administrativt utvalg;Ikke alle utflyttere og ikke skatteindusert kausalt antall
+innflytting_formuende_06;Eierskap og skatt;Registrert innflytting i utvalgt formuespopulasjon;2025;Utvalg 3 565 personer;9;personer;K97;NOU tabell 3.3 / administrativt utvalg;"Avgrenset utvalg; forskjellig flytteår"
+formuesskatt_utflyttede_06;Eierskap og skatt;Formuesskatt betalt foregående år av utflyttere;2025;Utvalg 3 565 personer;55;mill. kr;K97;NOU tabell 3.2;Historisk skatt på personer som flyttet, IKKE kausalt fremtidig skattetap
+utflyttingsskatt_saker_06;Eierskap og skatt;Antall utflyttingsskattesaker;2020;Skattedirektoratets utflyttingsskattesaker;53;saker;K97;NOU tabell 3.4;Skattedata ikke samme populasjon som flytteutvalget
+latent_gevinst_06;Eierskap og skatt;Fastsatt latent gevinst i utflyttingsskattesaker;2020;Skattedirektoratets utflyttingsskattesaker;3301;mill. kr;K97;NOU tabell 3.4;Latent gevinst er IKKE kapital som er flyttet, skattebetaling eller reelt norsk investeringstap
+utflyttingsskatt_saker_06;Eierskap og skatt;Antall utflyttingsskattesaker;2021;Skattedirektoratets utflyttingsskattesaker;52;saker;K97;NOU tabell 3.4;Skattedata ikke samme populasjon som flytteutvalget
+latent_gevinst_06;Eierskap og skatt;Fastsatt latent gevinst i utflyttingsskattesaker;2021;Skattedirektoratets utflyttingsskattesaker;9900;mill. kr;K97;NOU tabell 3.4;Latent gevinst er IKKE kapital som er flyttet, skattebetaling eller reelt norsk investeringstap
+utflyttingsskatt_saker_06;Eierskap og skatt;Antall utflyttingsskattesaker;2022;Skattedirektoratets utflyttingsskattesaker;167;saker;K97;NOU tabell 3.4;Skattedata ikke samme populasjon som flytteutvalget
+latent_gevinst_06;Eierskap og skatt;Fastsatt latent gevinst i utflyttingsskattesaker;2022;Skattedirektoratets utflyttingsskattesaker;133800;mill. kr;K97;NOU tabell 3.4;Latent gevinst er IKKE kapital som er flyttet, skattebetaling eller reelt norsk investeringstap
+utflyttingsskatt_saker_06;Eierskap og skatt;Antall utflyttingsskattesaker;2023;Skattedirektoratets utflyttingsskattesaker;187;saker;K97;NOU tabell 3.4;Skattedata ikke samme populasjon som flytteutvalget
+latent_gevinst_06;Eierskap og skatt;Fastsatt latent gevinst i utflyttingsskattesaker;2023;Skattedirektoratets utflyttingsskattesaker;44284;mill. kr;K97;NOU tabell 3.4;Latent gevinst er IKKE kapital som er flyttet, skattebetaling eller reelt norsk investeringstap
+utflyttingsskatt_saker_06;Eierskap og skatt;Antall utflyttingsskattesaker;2024;Skattedirektoratets utflyttingsskattesaker;100;saker;K97;NOU tabell 3.4;Skattedata ikke samme populasjon som flytteutvalget
+latent_gevinst_06;Eierskap og skatt;Fastsatt latent gevinst i utflyttingsskattesaker;2024;Skattedirektoratets utflyttingsskattesaker;5420;mill. kr;K97;NOU tabell 3.4;Latent gevinst er IKKE kapital som er flyttet, skattebetaling eller reelt norsk investeringstap
+formelle_formueskattesatser_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Bankinnskudd og obligasjoner;1.0;prosent verdigrunnlag, trinn 1;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser2_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Bankinnskudd og obligasjoner;1.1;prosent verdigrunnlag, trinn 2;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Aksjer;0.8;prosent verdigrunnlag, trinn 1;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser2_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Aksjer;0.88;prosent verdigrunnlag, trinn 2;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Direkte eide driftsmidler;0.7;prosent verdigrunnlag, trinn 1;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser2_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Direkte eide driftsmidler;0.77;prosent verdigrunnlag, trinn 2;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Primærbolig, verdi opp til 14 mill.;0.25;prosent verdigrunnlag, trinn 1;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser2_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Primærbolig, verdi opp til 14 mill.;0.275;prosent verdigrunnlag, trinn 2;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Sekundærbolig;1.0;prosent verdigrunnlag, trinn 1;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser2_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Sekundærbolig;1.1;prosent verdigrunnlag, trinn 2;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Næringseiendom;0.8;prosent verdigrunnlag, trinn 1;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+formelle_formueskattesatser2_06;Skatt;Illustrert effektiv marginalsats etter formell rabatt;2026;Næringseiendom;0.88;prosent verdigrunnlag, trinn 2;K93;Vedtak 2026, beregnet;Før bunnfradrag, gjeld og avvik mellom skattemessig verdsetting og markedsverdi
+nou_formuesskatt_scenario_06;Skattereform;Anslått statisk provenyendring i NOU-skattesats;2026;Utredet sats 0.25 %;-25.2;mrd. kr;K98;NOU 2026:9, scenarioberegning;"Forslag, IKKE vedtatt; ingen modellering av atferd eller BNP"
+nou_formuesskatt_scenario_06;Skattereform;Anslått statisk provenyendring i NOU-skattesats;2026;Utredet sats 0.4 %;-19.5;mrd. kr;K98;NOU 2026:9, scenarioberegning;"Forslag, IKKE vedtatt; ingen modellering av atferd eller BNP"
+nou_formuesskatt_scenario_06;Skattereform;Anslått statisk provenyendring i NOU-skattesats;2026;Utredet sats 0.5 %;-15.7;mrd. kr;K98;NOU 2026:9, scenarioberegning;"Forslag, IKKE vedtatt; ingen modellering av atferd eller BNP"
+nou_formuesskatt_scenario_06;Skattereform;Anslått statisk provenyendring i NOU-skattesats;2026;Utredet sats 0.6 %;-12.0;mrd. kr;K98;NOU 2026:9, scenarioberegning;"Forslag, IKKE vedtatt; ingen modellering av atferd eller BNP"
+nou_formuesskatt_scenario_06;Skattereform;Anslått statisk provenyendring i NOU-skattesats;2026;Utredet sats 0.75 %;-6.3;mrd. kr;K98;NOU 2026:9, scenarioberegning;"Forslag, IKKE vedtatt; ingen modellering av atferd eller BNP"
+indikator_06;Eierskap og skatt;Formuesskatt bunnfradrag enslig;2026;Personlige skattytere;1900000;NOK;K93;Vedtak 2026;Skattemessig nettoformue
+indikator_06;Eierskap og skatt;Formuesskatt første marginaltrinn;2026;Personlige skattytere;1.0;prosent;K93;Vedtak 2026;1,9–21,5 mill. skattepliktig nettoformue
+indikator_06;Eierskap og skatt;Formuesskatt topptrinn;2026;Personlige skattytere;1.1;prosent;K93;Vedtak 2026;Over 21,5 mill.
+indikator_06;Eierskap og skatt;Utbytteskatt etter skjerming;2026;Personlige skattytere;37.84;prosent;K94;Vedtak 2026;Sats på skattepliktig utbytte
+indikator_06;Eierskap og skatt;Selskapsskatt;2026;Vanlige aksjeselskaper, alminnelig inntekt;22;prosent;K109;Vedtak 2026;Andre sektorspesifikke regler finnes
+indikator_06;Eierskap og skatt;Formuesskattebetalere;2024;Bosatte personer 17+ år;701482;personer;K101;Historisk registertall;Ikke 2026-prognose
+indikator_06;Eierskap og skatt;Gjennomsnittlig formuesskatt blant betalere;2024;Bosatte personer med positiv formuesskatt;44300;NOK;K101;Historisk registertall;Ikke median
+indikator_06;Eierskap og skatt;Formuesskatt anslag samlet;2026;Personlige og upersonlige skattytere;36;mrd. NOK;K110;Anslag i forslag til budsjett 2027;Omtrent, prognose
+indikator_06;Eierskap og skatt;Anslått andel personlig formuesskatt;2026;Personlige skattytere;15.2;prosent;K110;Anslag;Ikke basert på 2024 antall
+indikator_06;Eierskap og skatt;Personer i spesialutvalg;2021–2025;NOU utvalg med høy formue;3565;personer;K97;NOU populasjon;Utvalg, ikke Norges befolkning
+indikator_06;Eierskap og skatt;Utflyttere i spesialutvalg sum;2021–2025;NOU utvalg med høy formue;141;personer;K97;Kohortens registrerte utflyttere;Ikke skattedrevet kausalt antall
+indikator_06;Eierskap og skatt;Innflyttere i spesialutvalg sum;2021–2025;NOU utvalg med høy formue;46;personer;K97;Kohortens registrerte innflyttere;Ikke samme som samlet formuendemigrasjon
+indikator_06;Eierskap og skatt;Samlet latent gevinst i skattesaker;2022;Utflyttingsskattesaker;133800;mill. NOK;K97;Administrativt fastsatt latent gevinst;Ikke realisert kapitalflukt
+offentlige_hovedtall_07;Offentlig ressursbruk;Inntekter;2021;Offentlig forvaltning;2449364;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Løpende utgifter;2021;Offentlig forvaltning;1932789;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettoinvestering i ikke-finansiell kapital;2021;Offentlig forvaltning;70642;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Totale utgifter;2021;Offentlig forvaltning;2003431;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettofinansinvestering;2021;Offentlig forvaltning;445933;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Inntekter;2022;Offentlig forvaltning;3618188;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Løpende utgifter;2022;Offentlig forvaltning;2081911;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettoinvestering i ikke-finansiell kapital;2022;Offentlig forvaltning;75426;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Totale utgifter;2022;Offentlig forvaltning;2157337;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettofinansinvestering;2022;Offentlig forvaltning;1460851;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Inntekter;2023;Offentlig forvaltning;3191777;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Løpende utgifter;2023;Offentlig forvaltning;2265457;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettoinvestering i ikke-finansiell kapital;2023;Offentlig forvaltning;83264;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Totale utgifter;2023;Offentlig forvaltning;2348721;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettofinansinvestering;2023;Offentlig forvaltning;843056;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Inntekter;2024;Offentlig forvaltning;3217991;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Løpende utgifter;2024;Offentlig forvaltning;2441004;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettoinvestering i ikke-finansiell kapital;2024;Offentlig forvaltning;91290;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Totale utgifter;2024;Offentlig forvaltning;2532294;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettofinansinvestering;2024;Offentlig forvaltning;685697;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Inntekter;2025;Offentlig forvaltning;3265786;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Løpende utgifter;2025;Offentlig forvaltning;2602008;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettoinvestering i ikke-finansiell kapital;2025;Offentlig forvaltning;82543;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Totale utgifter;2025;Offentlig forvaltning;2684551;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+offentlige_hovedtall_07;Offentlig ressursbruk;Nettofinansinvestering;2025;Offentlig forvaltning;581235;millioner kroner, løpende priser;K113;SSB 14668 revidert 2026-09-07;SSB offentlig forvaltning, ikke budsjettbevilgning eller kvalitetsmål
+cofog_07;Offentlig ressursbruk;Alminnelig offentlig tjenesteyting;2021;COFOG;164512;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Forsvar;2021;COFOG;72459;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Offentlig orden og trygghet;2021;COFOG;44929;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Næringsøkonomiske formål;2021;COFOG;246614;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Miljøvern;2021;COFOG;35520;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Bolig og nærmiljø;2021;COFOG;29840;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Helse;2021;COFOG;320094;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Fritid, kultur og religion;2021;COFOG;68988;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Utdanning;2021;COFOG;207213;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Sosial beskyttelse;2021;COFOG;813261;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Alminnelig offentlig tjenesteyting;2022;COFOG;188576;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Forsvar;2022;COFOG;80934;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Offentlig orden og trygghet;2022;COFOG;49396;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Næringsøkonomiske formål;2022;COFOG;284344;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Miljøvern;2022;COFOG;40262;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Bolig og nærmiljø;2022;COFOG;35423;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Helse;2022;COFOG;338567;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Fritid, kultur og religion;2022;COFOG;71003;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Utdanning;2022;COFOG;219688;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Sosial beskyttelse;2022;COFOG;849145;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Alminnelig offentlig tjenesteyting;2023;COFOG;243960;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Forsvar;2023;COFOG;91183;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Offentlig orden og trygghet;2023;COFOG;51598;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Næringsøkonomiske formål;2023;COFOG;286656;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Miljøvern;2023;COFOG;42197;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Bolig og nærmiljø;2023;COFOG;40113;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Helse;2023;COFOG;362262;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Fritid, kultur og religion;2023;COFOG;73963;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Utdanning;2023;COFOG;233566;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Sosial beskyttelse;2023;COFOG;923223;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Alminnelig offentlig tjenesteyting;2024;COFOG;274996;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Forsvar;2024;COFOG;114902;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Offentlig orden og trygghet;2024;COFOG;55149;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Næringsøkonomiske formål;2024;COFOG;297062;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Miljøvern;2024;COFOG;43416;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Bolig og nærmiljø;2024;COFOG;45088;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Helse;2024;COFOG;379793;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Fritid, kultur og religion;2024;COFOG;76889;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Utdanning;2024;COFOG;250111;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Sosial beskyttelse;2024;COFOG;994887;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Alminnelig offentlig tjenesteyting;2025;COFOG;274613;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Forsvar;2025;COFOG;171792;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Offentlig orden og trygghet;2025;COFOG;59073;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Næringsøkonomiske formål;2025;COFOG;313851;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Miljøvern;2025;COFOG;46129;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Bolig og nærmiljø;2025;COFOG;44925;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Helse;2025;COFOG;391954;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Fritid, kultur og religion;2025;COFOG;78883;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Utdanning;2025;COFOG;254554;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+cofog_07;Offentlig ressursbruk;Sosial beskyttelse;2025;COFOG;1048776;millioner kroner, løpende priser;K113;SSB 14669 revidert 2026-09-07;"COFOG; generelle tjenester er ikke administrasjonskostnader"
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2016K2;Offentlig forvaltning;34.2;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2017K2;Offentlig forvaltning;34.2;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2018K2;Offentlig forvaltning;34.0;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2019K2;Offentlig forvaltning;33.8;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2020K2;Offentlig forvaltning;34.4;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2021K2;Offentlig forvaltning;35.1;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2022K2;Offentlig forvaltning;33.4;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2023K2;Offentlig forvaltning;33.5;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2024K2;Offentlig forvaltning;33.7;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+jobbandel_offentlig_07;Arbeidsallokering;Offentlig andel av jobbforhold;2025K2;Offentlig forvaltning;33.5;prosent;K114;Antall jobbforhold – ikke personer;Jobbforhold, ikke sysselsatte personer eller årsverk
+hovedindikatorer_07;Ressursbruk og tjenester;Offentlige innkjøp;2024;Offentlig forvaltning mv., SSB/DFØ;835;mrd. kr;K115;Nominell anskaffelsesstatistikk, revidert;"Bruttokjøp og investeringer; omfatter også offentlig forretningsdrift; ikke potensielt kutt"
+hovedindikatorer_07;Ressursbruk og tjenester;Offentlige innkjøp;2025;Offentlig forvaltning mv., SSB/DFØ;864;mrd. kr;K115;Omtrent, nominell;"Omtrent 864 milliarder; ikke utgift til administrasjon"
+hovedindikatorer_07;Ressursbruk og tjenester;Utgiftsandel samlet BNP;2024;Offentlig forvaltning;47.0;prosent;K134;SSB revidert;Nevner: samlet BNP, ikke Fastlands-BNP
+hovedindikatorer_07;Ressursbruk og tjenester;Utgiftsandel samlet BNP;2025;Offentlig forvaltning;48.7;prosent;K134;SSB revidert;Nevner: samlet BNP, ikke Fastlands-BNP
+hovedindikatorer_07;Ressursbruk og tjenester;Forsvar hovedbidrag årsvekst 2025;2025;COFOG forsvar;56.89;mrd. kr (økning fra 2024);K113 K134;Egen aritmetikk fra SSB;"Ukraina-støtte forklarer mye; ikke vekst i administrasjon"
+hovedindikatorer_07;Ressursbruk og tjenester;Manglende spareinsentiver;2026-06;Spurte statlige virksomheter, n=144;nesten to tredjedeler;andel respondentvirksomheter;K116;Riksrevisjonens spørreundersøkelse;Ikke to tredjedeler av ansatte eller statens budsjett
+hovedindikatorer_07;Ressursbruk og tjenester;Uførhet 18–67;2025-12;Mottakere uføretrygd NAV;374900;personer, avrundet;K126;NAV desember 2025;10,5 % av 18–67-åringer, stabil andel flere år
+hovedindikatorer_07;Ressursbruk og tjenester;Uførhet andel;2025-12;18–67-åringer;10.5;prosent;K126;NAV desember 2025;Andelen stabil fra 2020, ikke dokumentasjon på bratt økning
+hovedindikatorer_07;Ressursbruk og tjenester;Sykefravær sesongjustert;2026K2;Alle næringer;6.68;prosent;K127;SSB sesongjustert;Ikke samme størrelse som uføretrygd eller alle trygdeytelser
+hovedindikatorer_07;Ressursbruk og tjenester;Sykefravær sesongjustert;2026K2;Helse- og sosialtjenester;9.61;prosent;K127;SSB sesongjustert;"Næringsgrupper, ikke organisasjonssektor; inkluderer private tjenester"
+hovedindikatorer_07;Ressursbruk og tjenester;Sykefravær sesongjustert;2026K2;Offentlig administrasjon og forsvar;5.68;prosent;K127;SSB sesongjustert;Næringsgruppe, ikke hele offentlig forvaltning
+hovedindikatorer_07;Ressursbruk og tjenester;Sykefravær sesongjustert;2026K2;Undervisning;6.66;prosent;K127;SSB sesongjustert;Næringsgruppe, ikke hele offentlig forvaltning
+hovedindikatorer_07;Ressursbruk og tjenester;Helseutgifter per innbygger PPP;2025;Norge;9393;USD kjøpekraftskorrigert;K121;OECD Health at a Glance 2025;"Samlede helseutgifter, offentlig og privat; ikke COFOG-utgift"
+hovedindikatorer_07;Ressursbruk og tjenester;Helseutgifter per innbygger PPP;2025;OECD-gjennomsnitt;5967;USD kjøpekraftskorrigert;K121;OECD Health at a Glance 2025;Landreferanse, ulike tjenestemodeller og demografi
+hovedindikatorer_07;Ressursbruk og tjenester;Forventet levealder;2025-rapport;Norge;83.1;år;K121;OECD landnotat;Utfall påvirkes også av befolkningens levevaner og seleksjon
+hovedindikatorer_07;Ressursbruk og tjenester;Forventet levealder;2025-rapport;OECD-gjennomsnitt;81.1;år (utledet fra oppgitt forskjell);K121;Avledet beregning 83,1−2,0;Ikke OECD direkte sitert absoluttverdi i landnotat
+hovedindikatorer_07;Ressursbruk og tjenester;Inndekningsbehov referansebane;2060 (perspektivmeldingen 2024);Norge;6.2;prosent Fastlands-BNP;K124;Betinget offentlig framskriving;Ikke prognose for gjeld eller statsbankerott
+hovedindikatorer_07;Ressursbruk og tjenester;Inndekningsbehov revidert referanse;2060 (Nasjonalbudsjettet 2026);Norge;5.9;prosent Fastlands-BNP;K125;Betinget offentlig framskriving;"Revidert datavintage; ikke en ny observasjon for 2060"
+hovedindikatorer_07;Ressursbruk og tjenester;Prissatt netto nytte utvalgte NTP-investeringer;NTP 2025–2036;Store prosjekter prioritert oppstart, ekskl. Nye Veier;-125;mrd. kr;K123;NTP ex ante anslag;"Kun prissatte virkninger; ikke-prissatte nytte/kostnad inngår ikke"
+hovedindikatorer_07;Ressursbruk og tjenester;Prissatt netto nytte Nye Veier portefølje;NTP 2025–2036;Nye Veier-prosjekter;-17;mrd. kr;K123;NTP ex ante anslag;"Ikke prissatt total samfunnsnytte; prosjektutvalg avgjør"
+fondsbruk_08;Statsfinanser;Strukturelt oljekorrigert underskudd;2025;Nasjonalbudsjettet 2027-vintage;507.4;mrd. kroner;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel trend-Fastlands-BNP;2025;Nasjonalbudsjettet 2027-vintage;11.6;prosent;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel statens utgifter;2025;Nasjonalbudsjettet 2027-vintage;24.5;prosent;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel beregnet inngangs-SPU;2025;Nasjonalbudsjettet 2027-vintage;2.6;prosent;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Strukturelt oljekorrigert underskudd;2026;Nasjonalbudsjettet 2027-vintage;583.4;mrd. kroner;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel trend-Fastlands-BNP;2026;Nasjonalbudsjettet 2027-vintage;12.7;prosent;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel statens utgifter;2026;Nasjonalbudsjettet 2027-vintage;26.5;prosent;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel beregnet inngangs-SPU;2026;Nasjonalbudsjettet 2027-vintage;2.7;prosent;K137;tidligere år revidert i Nasjonalbudsjettet 2027;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Strukturelt oljekorrigert underskudd;2027;Nasjonalbudsjettet 2027-vintage;608.4;mrd. kroner;K137;2027 regjeringens forslag;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel trend-Fastlands-BNP;2027;Nasjonalbudsjettet 2027-vintage;12.6;prosent;K137;2027 regjeringens forslag;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel statens utgifter;2027;Nasjonalbudsjettet 2027-vintage;26.6;prosent;K137;2027 regjeringens forslag;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+fondsbruk_08;Statsfinanser;Andel beregnet inngangs-SPU;2027;Nasjonalbudsjettet 2027-vintage;2.7;prosent;K137;2027 regjeringens forslag;"Strukturell, konjunkturjustert indikator; ikke faktisk kontantoverføring"
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Skatt på petroleum;2026;Staten;378.0;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Miljø- og arealavgift;2026;Staten;11.1;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Netto SDØE;2026;Staten;256.1;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Equinor-utbytte;2026;Staten;25.4;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Sum petroleum netto;2026;Staten;670.6;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Skatt på petroleum;2027;Staten;346.6;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Miljø- og arealavgift;2027;Staten;12.3;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Netto SDØE;2027;Staten;184.8;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Equinor-utbytte;2027;Staten;24.7;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+petroleum_08;Petroleum;Netto petroleumskontantstrøm: Sum petroleum netto;2027;Staten;568.4;mrd. kroner;K142;Nasjonalbudsjettet 2027-anslag;"Summens underposter avrundet; bruk publisert sum fremfor å utlede fra delkomponenter."
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2016;NBIM;7510;mrd. kroner;K06;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2017;NBIM;8488;mrd. kroner;K06;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2018;NBIM;8256;mrd. kroner;K06;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2019;NBIM;10088;mrd. kroner;K06;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2020;NBIM;10914;mrd. kroner;K06;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2021;NBIM;12340;mrd. kroner;K141;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2022;NBIM;12429;mrd. kroner;K141;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2023;NBIM;15757;mrd. kroner;K141;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2024;NBIM;19742;mrd. kroner;K141;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2025;NBIM;21268;mrd. kroner;K141;Faktisk markedsverdi ved utgangen av året;"Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+fondsverdi_08;Statsfinanser;SPU, markedsverdi;2026-H1;NBIM;22683;mrd. kroner;K140;Faktisk markedsverdi per 30. juni 2026;Halvårsobservasjon, ikke 2026 årsverdi
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2001;Nasjonalbudsjett, historisk figur;3.9;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2002;Nasjonalbudsjett, historisk figur;4.8;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2003;Nasjonalbudsjett, historisk figur;5.5;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2004;Nasjonalbudsjett, historisk figur;4.6;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2005;Nasjonalbudsjett, historisk figur;4.2;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2006;Nasjonalbudsjett, historisk figur;3.0;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2007;Nasjonalbudsjett, historisk figur;2.4;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2008;Nasjonalbudsjett, historisk figur;2.6;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2009;Nasjonalbudsjett, historisk figur;3.8;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2010;Nasjonalbudsjett, historisk figur;3.7;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2011;Nasjonalbudsjett, historisk figur;3.0;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2012;Nasjonalbudsjett, historisk figur;3.4;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2013;Nasjonalbudsjett, historisk figur;3.3;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2014;Nasjonalbudsjett, historisk figur;3.0;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2015;Nasjonalbudsjett, historisk figur;2.7;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2016;Nasjonalbudsjett, historisk figur;2.7;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2017;Nasjonalbudsjett, historisk figur;2.9;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2018;Nasjonalbudsjett, historisk figur;2.4;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2019;Nasjonalbudsjett, historisk figur;2.8;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2020;Nasjonalbudsjett, historisk figur;3.6;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2021;Nasjonalbudsjett, historisk figur;3.1;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2022;Nasjonalbudsjett, historisk figur;2.6;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2023;Nasjonalbudsjett, historisk figur;2.9;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2024;Nasjonalbudsjett, historisk figur;2.6;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2025;Nasjonalbudsjett, historisk figur;2.6;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2026;Nasjonalbudsjett, historisk figur;2.7;prosent;K147;"Offentlig publisert historisk figurserie per 2026; eldre anslagsvintage";Budsjettindikator, ikke årlig realisert avkastning
+uttaksprosent_08;Statsfinanser;Strukturelt uttak av inngangs-SPU;2027;Nasjonalbudsjett, historisk figur;2.7;prosent;K137;Anslag fra regjeringens budsjettforslag for 2027;"2027 fra NB27; for 2001–2026 fra publisert finansdepartementstabell 2026"
+regnskap_08;Statsfinanser;Oljekorrigert kontantunderskudd;2026;Budsjettforslag/anslag;454.8;mrd. kroner;K137;"2026-vintage per Nasjonalbudsjettet 2027; engangseffekt fra skattetrekkskonto";"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Strukturelt oljekorrigert underskudd;2026;Budsjettforslag/anslag;583.4;mrd. kroner;K137;Konjunktur- og bokføringseffekt justert;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Oljekorrigert kontantunderskudd;2027;Budsjettforslag/anslag;561.7;mrd. kroner;K139;Budsjettert kontantoverføring fra SPU;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Strukturelt oljekorrigert underskudd;2027;Budsjettforslag/anslag;608.4;mrd. kroner;K137;Finanspolitisk styringsmål, ikke lik kontantoverføring;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Statens inntekter uten petroleum;2027;Budsjettforslag/anslag;1725.0;mrd. kroner;K139;Statens budsjetterte inntekter uten petroleum;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Statens utgifter uten petroleum;2027;Budsjettforslag/anslag;2287.0;mrd. kroner;K139;Statens budsjetterte utgifter uten petroleum;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Statens samlede inntekter;2027;Budsjettforslag/anslag;2328.0;mrd. kroner;K139;Inkludert petroleum, budsjettføring;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Statens samlede utgifter;2027;Budsjettforslag/anslag;2322.0;mrd. kroner;K139;Inkludert petroleum, budsjettføring;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;SPU beregningsteknisk kapital ved inngang;2027;Budsjettforslag/anslag;22400.0;mrd. kroner;K138;Anslag, ikke markedsobservasjon;"Kontantpost eller strukturindikator; se originaldefinisjon"
+regnskap_08;Statsfinanser;Realisert netto petroleumsstrøm fra staten, anslag;2027;Budsjettforslag/anslag;568.4;mrd. kroner;K142;Budsjettanslag;"Kontantpost eller strukturindikator; se originaldefinisjon"
+hovedindikatorer_08;Statsfinanser;Fond realavkastning, annualisert 1998–2025;2025;Norge;4.34;prosent;K141;"Regnskapsrapport, historisk annualisert; ingen framtidsgaranti";"Regnskapsrapport, historisk annualisert; ingen framtidsgaranti"
+hovedindikatorer_08;Statsfinanser;Fond realavkastning, annualisert 1998–H1 2026;2026-H1;Norge;4.51;prosent;K140;Regnskap, historisk annualisert;Regnskap, historisk annualisert
+hovedindikatorer_08;Statsfinanser;Fond avkastning, 2025 i valutakurv;2025;Norge;15.11;prosent;K141;Historisk kalenderår;Historisk kalenderår
+hovedindikatorer_08;Statsfinanser;Fond avkastning, 2026 første halvår i valutakurv;2026-H1;Norge;9.44;prosent;K140;Historisk halvår;Historisk halvår
+hovedindikatorer_08;Statsfinanser;Kronekursbidrag til fondets verdi 2025;2025;Norge;-1155;mrd. NOK;K141;Regnskapseffekt fra valutakurser;Regnskapseffekt fra valutakurser
+hovedindikatorer_08;Statsfinanser;Kronekursbidrag til fondets verdi 2026 H1;2026-H1;Norge;-427;mrd. NOK;K140;Regnskapseffekt fra valutakurser;Regnskapseffekt fra valutakurser
+hovedindikatorer_08;Statsfinanser;Fondsverdi mot Fastlands-BNP, 2029;2029;Norge;4.9;multiplikator;K137;Betinget statlig framskriving;Betinget statlig framskriving
+hovedindikatorer_08;Statsfinanser;Fondsverdi mot Fastlands-BNP, 2060;2060;Norge;4.5;multiplikator;K137;Betinget statlig framskriving;Betinget statlig framskriving
+hovedindikatorer_08;Statsfinanser;Strukturelt underskudd som % av trend-Fastlands-BNP, 2001;2001;Norge;2.0;prosent;K137;Historisk finanspolitisk mål;Historisk finanspolitisk mål
+hovedindikatorer_08;Statsfinanser;Inndekningsbehov i 2060, Perspektivmeldingen 2024;2060-vintage-2024;Norge;6.2;prosent Fastlands-BNP;K143;Betinget framskriving, ikke realisert tall;Betinget framskriving, ikke realisert tall
+hovedindikatorer_08;Statsfinanser;Inndekningsbehov i 2060, Nasjonalbudsjettet 2026;2060-vintage-2025;Norge;5.9;prosent Fastlands-BNP;K125;Betinget framskriving, ikke realisert tall;Betinget framskriving, ikke realisert tall
+hovedindikatorer_08;Statsfinanser;Inndekningsbehov i 2060, Nasjonalbudsjettet 2027;2060-vintage-2026;Norge;5.8;prosent Fastlands-BNP;K137;Betinget framskriving, ikke realisert tall;Betinget framskriving, ikke realisert tall
+hovedindikatorer_08;Statsfinanser;Endring offentlig inntekt 2027–2060;2060;Norge;-2.2;prosentpoeng Fastlands-BNP;K137;Betinget framskriving;Betinget framskriving
+hovedindikatorer_08;Statsfinanser;Endring offentlig utgift 2027–2060;2060;Norge;3.6;prosentpoeng Fastlands-BNP;K137;Betinget framskriving;Betinget framskriving
+hovedindikatorer_08;Statsfinanser;Hypotetisk stresstest: ekstremvær;2025;Norge;-20;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"
+hovedindikatorer_08;Statsfinanser;Hypotetisk stresstest: regional gjeldskrise;2025;Norge;-32;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"
+hovedindikatorer_08;Statsfinanser;Hypotetisk stresstest: AI-korreksjon;2025;Norge;-35;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"
+hovedindikatorer_08;Statsfinanser;Hypotetisk stresstest: fragmentert verden;2025;Norge;-37;prosent fond;K146;"D — hypotetisk stressmodell; ingen prognose";"D — hypotetisk stressmodell; ingen prognose"
+befolkning_09;Demografi;Innbyggere etter scenario;2026;MMM;5627400;personer;K152;Registrert folketall;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario MMM"
+befolkning_09;Demografi;Innbyggere etter scenario;2026;LLL;5627400;personer;K152;Registrert folketall;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario LLL"
+befolkning_09;Demografi;Innbyggere etter scenario;2026;HHH;5627400;personer;K152;Registrert folketall;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario HHH"
+befolkning_09;Demografi;Innbyggere etter scenario;2030;MMM;5751203;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario MMM"
+befolkning_09;Demografi;Innbyggere etter scenario;2030;LLL;5663302;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario LLL"
+befolkning_09;Demografi;Innbyggere etter scenario;2030;HHH;5822435;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario HHH"
+befolkning_09;Demografi;Innbyggere etter scenario;2040;MMM;6027372;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario MMM"
+befolkning_09;Demografi;Innbyggere etter scenario;2040;LLL;5634157;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario LLL"
+befolkning_09;Demografi;Innbyggere etter scenario;2040;HHH;6383176;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario HHH"
+befolkning_09;Demografi;Innbyggere etter scenario;2050;MMM;6214071;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario MMM"
+befolkning_09;Demografi;Innbyggere etter scenario;2050;LLL;5499807;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario LLL"
+befolkning_09;Demografi;Innbyggere etter scenario;2050;HHH;6911208;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario HHH"
+befolkning_09;Demografi;Innbyggere etter scenario;2060;MMM;6305127;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario MMM"
+befolkning_09;Demografi;Innbyggere etter scenario;2060;LLL;5256233;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario LLL"
+befolkning_09;Demografi;Innbyggere etter scenario;2060;HHH;7413803;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario HHH"
+befolkning_09;Demografi;Innbyggere etter scenario;2075;MMM;6391695;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario MMM"
+befolkning_09;Demografi;Innbyggere etter scenario;2075;LLL;4761879;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario LLL"
+befolkning_09;Demografi;Innbyggere etter scenario;2075;HHH;8289096;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario HHH"
+befolkning_09;Demografi;Innbyggere etter scenario;2100;MMM;6384547;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario MMM"
+befolkning_09;Demografi;Innbyggere etter scenario;2100;LLL;3827160;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario LLL"
+befolkning_09;Demografi;Innbyggere etter scenario;2100;HHH;9712698;personer;K152;SSB 2026-framskriving;"Registrert i 2026; deretter nasjonal BEFINN-vintage 2026, scenario HHH"
+fylker_09;Demografi;Befolkning i fylke;2026;Østfold;316448;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Østfold;359918;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Akershus;749207;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Akershus;898014;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Oslo;728714;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Oslo;844646;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Innlandet;379488;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Innlandet;397124;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Buskerud;272981;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Buskerud;307741;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Vestfold;259332;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Vestfold;288054;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Telemark;177923;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Telemark;184526;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Agder;323930;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Agder;359654;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Rogaland;508922;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Rogaland;559177;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Vestland;658342;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Vestland;699100;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Møre og Romsdal;273169;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Møre og Romsdal;277987;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Trøndelag;489166;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Trøndelag;531553;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Nordland;243272;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Nordland;235856;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Troms;171218;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Troms;175965;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2026;Finnmark;75288;personer;K153;Registrert;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+fylker_09;Demografi;Befolkning i fylke;2050;Finnmark;76544;personer;K153;SSB regional MMMM;Summen av 2050-fylkene 6 195 859 AVVIKER fra nasjonal MMM 6 214 071 på grunn av to forskjellige SSB-modeller (K169)
+husholdninger_09;Bolig og demografi;Privathusholdninger;2026;Aleneboende;1103955;husholdninger;K155;SSB register;Ikke boligbestand eller boenheter
+husholdninger_09;Bolig og demografi;Privathusholdninger;2026;Par uten barn;648127;husholdninger;K155;SSB register;Ikke boligbestand eller boenheter
+husholdninger_09;Bolig og demografi;Privathusholdninger;2026;Par med barn;611938;husholdninger;K155;SSB register;Ikke boligbestand eller boenheter
+husholdninger_09;Bolig og demografi;Privathusholdninger;2026;En forelder med barn;176894;husholdninger;K155;SSB register;Ikke boligbestand eller boenheter
+husholdninger_09;Bolig og demografi;Privathusholdninger;2026;Andre husholdninger;131137;husholdninger;K155;SSB register;Ikke boligbestand eller boenheter
+bolig_09;Bolig og demografi;Registrerte boliger, bebodde og ubebodde;2026;Norge;2762504;boliger;K156;"Bestand; Matrikkelen, registreringsetterslep";Registrerte boliger minus privathusholdninger er ikke antall salgsklare tomme hjem
+bolig_09;Bolig og demografi;Privathusholdninger;2026;Norge;2672051;husholdninger;K155;Husholdninger, egen registreringsdefinisjon;Registrerte boliger minus privathusholdninger er ikke antall salgsklare tomme hjem
+bolig_09;Bolig og demografi;Registrerte boliger, netto endring siste år;2026;Norge;18761;boliger;K156;"Netto bestandsendring; ikke ferdigstillelser";Registrerte boliger minus privathusholdninger er ikke antall salgsklare tomme hjem
+fruktbarhet_09;Demografi;Samlet fruktbarhetstall;2015;Norge;1.73;barn per kvinne;K154;SSB observert;Periodemål, ikke realisert kohortfruktbarhet
+førstefødsel_09;Demografi;Alder mor ved førstefødsel;2015;Norge;28.9;år;K154;SSB observert;Ikke mål på familiepreferanser eller kohortutfall
+fruktbarhet_09;Demografi;Samlet fruktbarhetstall;2024;Norge;1.44;barn per kvinne;K154;SSB observert;Periodemål, ikke realisert kohortfruktbarhet
+førstefødsel_09;Demografi;Alder mor ved førstefødsel;2024;Norge;30.4;år;K154;SSB observert;Ikke mål på familiepreferanser eller kohortutfall
+fruktbarhet_09;Demografi;Samlet fruktbarhetstall;2025;Norge;1.48;barn per kvinne;K154;SSB observert;Periodemål, ikke realisert kohortfruktbarhet
+førstefødsel_09;Demografi;Alder mor ved førstefødsel;2025;Norge;30.4;år;K154;SSB observert;Ikke mål på familiepreferanser eller kohortutfall
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2026;MMM;1.5;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2026;LMM;1.43;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2026;HMM;1.55;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2030;MMM;1.56;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2030;LMM;1.24;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2030;HMM;1.81;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2050;MMM;1.63;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2050;LMM;1.19;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2050;HMM;1.87;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2100;MMM;1.64;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2100;LMM;1.19;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+fruktbarhetsforutsetninger_09;Demografi;Fruktbarhet, betinget SSB-forutsetning;2100;HMM;1.89;barn per kvinne;K152;SSB antakelse;Må ikke forveksles med framtidige observasjoner
+dødsfall_09;Demografi;Antall dødsfall;2025;Norge;45040;personer;K152;Observert;Antall døde er ikke antall boliger frigjort
+dødsfall_09;Demografi;Antall dødsfall;2030;Norge;47986;personer;K152;SSB MMM-betinget;Antall døde er ikke antall boliger frigjort
+dødsfall_09;Demografi;Antall dødsfall;2050;Norge;60588;personer;K152;SSB MMM-betinget;Antall døde er ikke antall boliger frigjort
+dødsfall_09;Demografi;Antall dødsfall;2075;Norge;67058;personer;K152;SSB MMM-betinget;Antall døde er ikke antall boliger frigjort
+dødsfall_09;Demografi;Antall dødsfall;2100;Norge;70830;personer;K152;SSB MMM-betinget;Antall døde er ikke antall boliger frigjort
+omsorg_09;Omsorg og arbeidskraft;Årsverk i kommunale omsorgstjenester;2025;Norge;163755;årsverk;K157;SSB observert;Gap 2040 og historisk omsorg FTE har ulike populasjoner
+omsorg_09;Omsorg og arbeidskraft;Brukere 80+ av hjemmetjenester;2025;Norge;70662;personer;K158;SSB observert 31.12;Gap 2040 og historisk omsorg FTE har ulike populasjoner
+omsorg_09;Omsorg og arbeidskraft;Brukere 80+ av institusjonstjenester;2025;Norge;27039;personer;K158;SSB observert 31.12;Gap 2040 og historisk omsorg FTE har ulike populasjoner
+omsorg_09;Omsorg og arbeidskraft;Plasser i sykehjem;2025;Norge;39727;plasser;K157;SSB observert 31.12;Gap 2040 og historisk omsorg FTE har ulike populasjoner
+omsorg_09;Omsorg og arbeidskraft;Kommunale omsorgsutgifter;2025;Norge;184.7;mrd. kr;K157;SSB observert;Gap 2040 og historisk omsorg FTE har ulike populasjoner
+omsorg_09;Omsorg og arbeidskraft;Anslått ubalanse helsepersonell, nasjonalt;2040;Norge;42400;helsepersonell / modellgap;K160;"Offentlig framskriving; IKKE en årverksprognose for kommunal omsorg alene";Gap 2040 og historisk omsorg FTE har ulike populasjoner
+eldre_09;Omsorg og arbeidskraft;Antall 80 år og eldre;2026;Norge;284939;personer;K158;Observert 2026 (80–89 pluss 90+);2050 er EGEN avrundet beregning av 9,5 % fra rapporttekst, ikke offisielt eksakt antall
+eldre_09;Omsorg og arbeidskraft;Antall 80 år og eldre;2040;Norge;462000;personer;K158;SSB avrundet MMM-tall (omtrent);2050 er EGEN avrundet beregning av 9,5 % fra rapporttekst, ikke offisielt eksakt antall
+eldre_09;Omsorg og arbeidskraft;Antall 80 år og eldre;2050;Norge;590337;personer;K165;"Egen omregning av SSBs ca. 9,5 % MMM; IKKE direkte tabelltall";2050 er EGEN avrundet beregning av 9,5 % fra rapporttekst, ikke offisielt eksakt antall

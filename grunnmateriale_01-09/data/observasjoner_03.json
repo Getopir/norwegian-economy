@@ -1,0 +1,236 @@
+[
+  {
+    "indikator": "Markedsverdi husholdningenes boliger",
+    "periode": "2024",
+    "verdi": 9159,
+    "enhet": "mrd. kroner",
+    "kilde_id": "K46",
+    "merknad": "Kun boligeiendeler; ikke lik omsetningslikviditet",
+    "traad": "03"
+  },
+  {
+    "indikator": "Avgrenset nettoformue bolig pluss nettofinansielle fordringer",
+    "periode": "2024",
+    "verdi": 11958,
+    "enhet": "mrd. kroner",
+    "kilde_id": "K46",
+    "merknad": "Ikke identisk med all husholdningsformue fra K07",
+    "traad": "03"
+  },
+  {
+    "indikator": "Beregnet nettofinansielle fordringer, differanse",
+    "periode": "2024",
+    "verdi": 2799,
+    "enhet": "mrd. kroner",
+    "kilde_id": "K46",
+    "merknad": "Egen differanse 11958−9159",
+    "traad": "03"
+  },
+  {
+    "indikator": "Boligens andel av avgrenset nettoformue",
+    "periode": "2024",
+    "verdi": 76.593,
+    "enhet": "prosent",
+    "kilde_id": "K46",
+    "merknad": "Egen aritmetikk 9159/11958×100; ikke boligandel av bruttoformue",
+    "traad": "03"
+  },
+  {
+    "indikator": "Nettoinvestering i egen bolig",
+    "periode": "2024",
+    "verdi": 57,
+    "enhet": "mrd. kroner",
+    "kilde_id": "K46",
+    "merknad": "Netto, ikke bruttoinvesteringer",
+    "traad": "03"
+  },
+  {
+    "indikator": "Nettoinvestering i egen bolig",
+    "periode": "2025",
+    "verdi": 51,
+    "enhet": "mrd. kroner",
+    "kilde_id": "K46",
+    "merknad": "Netto, ikke kredittilførsel",
+    "traad": "03"
+  },
+  {
+    "indikator": "Nominell boligprisindeks",
+    "periode": "1993",
+    "verdi": 19.0,
+    "enhet": "2015=100",
+    "kilde_id": "K47",
+    "merknad": "Bruktboliger",
+    "traad": "03"
+  },
+  {
+    "indikator": "Nominell boligprisindeks",
+    "periode": "2025",
+    "verdi": 152.5,
+    "enhet": "2015=100",
+    "kilde_id": "K47",
+    "merknad": "Bruktboliger",
+    "traad": "03"
+  },
+  {
+    "indikator": "Nominell boligprisvekst",
+    "periode": "2015–2024",
+    "verdi": 44.6,
+    "enhet": "prosent",
+    "kilde_id": "K47",
+    "merknad": "SSB sammenlikningsperiode",
+    "traad": "03"
+  },
+  {
+    "indikator": "KPI-vekst",
+    "periode": "2015–2024",
+    "verdi": 33.6,
+    "enhet": "prosent",
+    "kilde_id": "K47",
+    "merknad": "SSB sammenlikningsperiode",
+    "traad": "03"
+  },
+  {
+    "indikator": "Reell boligprisvekst, akkumulert",
+    "periode": "2015–2024",
+    "verdi": 8.234,
+    "enhet": "prosent",
+    "kilde_id": "K47",
+    "merknad": "Egen aritmetikk, 2015–2024 basert på de to publiserte prosenttallene",
+    "traad": "03"
+  },
+  {
+    "indikator": "Nominell bruktboligprisfaktor",
+    "periode": "1993–2025",
+    "verdi": 8.026,
+    "enhet": "gangetall",
+    "kilde_id": "K47",
+    "merknad": "Nominell relativ indeks, ikke real eller lønnsjustert",
+    "traad": "03"
+  },
+  {
+    "indikator": "Igangsettingstillatelser",
+    "periode": "2025",
+    "verdi": 20184,
+    "enhet": "boliger",
+    "kilde_id": "K50",
+    "merknad": "Tillatelser gitt i kalenderår, ikke nødvendigvis ferdigstilt",
+    "traad": "03"
+  },
+  {
+    "indikator": "Fullførte boliger",
+    "periode": "2024",
+    "verdi": 24032,
+    "enhet": "boliger",
+    "kilde_id": "K50",
+    "merknad": "Produksjonsstatistikk",
+    "traad": "03"
+  },
+  {
+    "indikator": "Fullførte boliger",
+    "periode": "2025",
+    "verdi": 19498,
+    "enhet": "boliger",
+    "kilde_id": "K50",
+    "merknad": "Produksjonsstatistikk",
+    "traad": "03"
+  },
+  {
+    "indikator": "Eiendomsrelaterte næringer, andel bedriftsutlån",
+    "periode": "2026",
+    "verdi": 56,
+    "enhet": "prosent",
+    "kilde_id": "K55",
+    "merknad": "Av innenlandske bedriftsutlån, inklusive eiendomsutvikling og bygg/anlegg",
+    "traad": "03"
+  },
+  {
+    "indikator": "Gjeldsgrad, nye boliglånskunder",
+    "periode": "2025",
+    "verdi": 329,
+    "enhet": "prosent",
+    "kilde_id": "K51",
+    "merknad": "Vektet snitt hos nye låntakere, ikke gjennomsnitt alle husholdninger",
+    "traad": "03"
+  },
+  {
+    "indikator": "Gjeldsgrad førstegangskjøpere",
+    "periode": "2025",
+    "verdi": 380,
+    "enhet": "prosent",
+    "kilde_id": "K52",
+    "merknad": "Undersøkelsens førstegangskjøpere",
+    "traad": "03"
+  },
+  {
+    "indikator": "Belåningsgrad førstegangskjøpere",
+    "periode": "2025",
+    "verdi": 77,
+    "enhet": "prosent",
+    "kilde_id": "K52",
+    "merknad": "Gjennomsnitt i utvalget",
+    "traad": "03"
+  },
+  {
+    "indikator": "Eldre medlåntaker utenfor husholdningen, førstegangskjøpere",
+    "periode": "2025",
+    "verdi": 13,
+    "enhet": "prosent",
+    "kilde_id": "K52",
+    "merknad": "Andel nye lån, ikke alle kjøpere",
+    "traad": "03"
+  },
+  {
+    "indikator": "Eldre medlåntaker utenfor husholdningen, førstegangskjøpere",
+    "periode": "2024",
+    "verdi": 8,
+    "enhet": "prosent",
+    "kilde_id": "K52",
+    "merknad": "Andel nye lån, ikke alle kjøpere",
+    "traad": "03"
+  },
+  {
+    "indikator": "Utlånsforskrift maksimal belåningsgrad",
+    "periode": "2025",
+    "verdi": 90,
+    "enhet": "prosent",
+    "kilde_id": "K53",
+    "merknad": "Hovedregel; fleksibilitetskvoter",
+    "traad": "03"
+  },
+  {
+    "indikator": "Utlånsforskrift gjeldsgrad, tak",
+    "periode": "2025",
+    "verdi": 5,
+    "enhet": "ganger bruttoinntekt",
+    "kilde_id": "K53",
+    "merknad": "Hovedregel; fleksibilitetskvoter",
+    "traad": "03"
+  },
+  {
+    "indikator": "Primærbolig skattemessig verdsettingsandel inntil 14 mill.",
+    "periode": "2026",
+    "verdi": 25,
+    "enhet": "prosent",
+    "kilde_id": "K57",
+    "merknad": "Formuesskatteverdsettelse; ikke samlet marginalskatt",
+    "traad": "03"
+  },
+  {
+    "indikator": "Primærbolig skattemessig verdsettingsandel over 14 mill.",
+    "periode": "2026",
+    "verdi": 70,
+    "enhet": "prosent",
+    "kilde_id": "K57",
+    "merknad": "Gjelder overskytende verdi",
+    "traad": "03"
+  },
+  {
+    "indikator": "Sekundærbolig skattemessig verdsettingsandel",
+    "periode": "2026",
+    "verdi": 100,
+    "enhet": "prosent",
+    "kilde_id": "K57",
+    "merknad": "Gjelder formuesskatteverdi",
+    "traad": "03"
+  }
+]

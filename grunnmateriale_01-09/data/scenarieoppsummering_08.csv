@@ -1,0 +1,7 @@
+﻿scenario;realavkastning_prosent;vekst_i_kontantuttak_prosent;nedgang_petroleum_prosent;initialt_fall_i_fond_prosent;fond_etter_2050_mrd;fond_etter_2060_mrd;fond_etter_2070_mrd;fond_etter_2100_mrd;forste_aar_uttak_over_3_prosent;forste_aar_teknisk_nullsaldo;type
+A – mekanisk referanse;3.0;1.5;6.0;0;34351.09;37500.84;39626.457;34821.045;2079;;D — matematisk scenario, ikke prognose
+B – lav realavkastning;1.0;1.5;6.0;0;18964.765;13009.885;4510.039;0;2040;2076;D — matematisk scenario, ikke prognose
+C – raskere vekst i uttak;3.0;3.0;6.0;0;30336.813;27023.935;16916.483;0;2043;2080;D — matematisk scenario, ikke prognose
+D – initialt fondssjokk;3.0;1.5;6.0;25.0;22967.443;22202.171;19066.324;0;2027;2093;D — matematisk scenario, ikke prognose
+E – raskt fall i petroleum;3.0;1.5;10.0;0;31482.578;32840.94;32864.503;17566.686;2066;;D — matematisk scenario, ikke prognose
+F – kombinert belastning;1.5;2.5;10.0;25.0;9385.902;0;0;0;2027;2061;D — matematisk scenario, ikke prognose

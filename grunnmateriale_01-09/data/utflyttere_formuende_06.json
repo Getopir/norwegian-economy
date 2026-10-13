@@ -1,0 +1,62 @@
+[
+  {
+    "aar": 2021,
+    "utflyttere_antal": 16,
+    "formuesskatt_forrige_aar_mill_kr": 22,
+    "innflyttere_antal": 14,
+    "formuesskatt_innflyttingsaar_mill_kr": 27,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.2 og 3.3",
+    "populasjon": "Spesialutvalg 3565 personer: nettoformue > 100 mill. kr eller Kapitals topp 400 i minst ett år 2021–2025",
+    "definisjon": "Folkeregisterstatus; ikke identifisert skattemotivert flytting",
+    "begrensning": "Ikke alle formuende og ikke representativt utvalg; 2025 innflytter-skatt ikke fastsatt"
+  },
+  {
+    "aar": 2022,
+    "utflyttere_antal": 46,
+    "formuesskatt_forrige_aar_mill_kr": 285,
+    "innflyttere_antal": 10,
+    "formuesskatt_innflyttingsaar_mill_kr": 16,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.2 og 3.3",
+    "populasjon": "Spesialutvalg 3565 personer: nettoformue > 100 mill. kr eller Kapitals topp 400 i minst ett år 2021–2025",
+    "definisjon": "Folkeregisterstatus; ikke identifisert skattemotivert flytting",
+    "begrensning": "Ikke alle formuende og ikke representativt utvalg; 2025 innflytter-skatt ikke fastsatt"
+  },
+  {
+    "aar": 2023,
+    "utflyttere_antal": 46,
+    "formuesskatt_forrige_aar_mill_kr": 130,
+    "innflyttere_antal": 8,
+    "formuesskatt_innflyttingsaar_mill_kr": 24,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.2 og 3.3",
+    "populasjon": "Spesialutvalg 3565 personer: nettoformue > 100 mill. kr eller Kapitals topp 400 i minst ett år 2021–2025",
+    "definisjon": "Folkeregisterstatus; ikke identifisert skattemotivert flytting",
+    "begrensning": "Ikke alle formuende og ikke representativt utvalg; 2025 innflytter-skatt ikke fastsatt"
+  },
+  {
+    "aar": 2024,
+    "utflyttere_antal": 16,
+    "formuesskatt_forrige_aar_mill_kr": 57,
+    "innflyttere_antal": 5,
+    "formuesskatt_innflyttingsaar_mill_kr": 14,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.2 og 3.3",
+    "populasjon": "Spesialutvalg 3565 personer: nettoformue > 100 mill. kr eller Kapitals topp 400 i minst ett år 2021–2025",
+    "definisjon": "Folkeregisterstatus; ikke identifisert skattemotivert flytting",
+    "begrensning": "Ikke alle formuende og ikke representativt utvalg; 2025 innflytter-skatt ikke fastsatt"
+  },
+  {
+    "aar": 2025,
+    "utflyttere_antal": 17,
+    "formuesskatt_forrige_aar_mill_kr": 55,
+    "innflyttere_antal": 9,
+    "formuesskatt_innflyttingsaar_mill_kr": "",
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.2 og 3.3",
+    "populasjon": "Spesialutvalg 3565 personer: nettoformue > 100 mill. kr eller Kapitals topp 400 i minst ett år 2021–2025",
+    "definisjon": "Folkeregisterstatus; ikke identifisert skattemotivert flytting",
+    "begrensning": "Ikke alle formuende og ikke representativt utvalg; 2025 innflytter-skatt ikke fastsatt"
+  }
+]

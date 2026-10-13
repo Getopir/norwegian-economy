@@ -1,0 +1,52 @@
+[
+  {
+    "aar": 2020,
+    "antall_saker": 53,
+    "latent_gevinst_mill_kr": 3301,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.4",
+    "populasjon": "Skattedirektoratets utflyttingsskattesaker i inntektsåret, ikke samme personliste som 3.2",
+    "definisjon": "Samlet fastsatt latent gevinst; ikke faktisk flyttet kapital eller skatteinnbetalt beløp",
+    "begrensning": "Administrative opplysninger ikke samlet inn for statistikkformål; 2025 mangler"
+  },
+  {
+    "aar": 2021,
+    "antall_saker": 52,
+    "latent_gevinst_mill_kr": 9900,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.4",
+    "populasjon": "Skattedirektoratets utflyttingsskattesaker i inntektsåret, ikke samme personliste som 3.2",
+    "definisjon": "Samlet fastsatt latent gevinst; ikke faktisk flyttet kapital eller skatteinnbetalt beløp",
+    "begrensning": "Administrative opplysninger ikke samlet inn for statistikkformål; 2025 mangler"
+  },
+  {
+    "aar": 2022,
+    "antall_saker": 167,
+    "latent_gevinst_mill_kr": 133800,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.4",
+    "populasjon": "Skattedirektoratets utflyttingsskattesaker i inntektsåret, ikke samme personliste som 3.2",
+    "definisjon": "Samlet fastsatt latent gevinst; ikke faktisk flyttet kapital eller skatteinnbetalt beløp",
+    "begrensning": "Administrative opplysninger ikke samlet inn for statistikkformål; 2025 mangler"
+  },
+  {
+    "aar": 2023,
+    "antall_saker": 187,
+    "latent_gevinst_mill_kr": 44284,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.4",
+    "populasjon": "Skattedirektoratets utflyttingsskattesaker i inntektsåret, ikke samme personliste som 3.2",
+    "definisjon": "Samlet fastsatt latent gevinst; ikke faktisk flyttet kapital eller skatteinnbetalt beløp",
+    "begrensning": "Administrative opplysninger ikke samlet inn for statistikkformål; 2025 mangler"
+  },
+  {
+    "aar": 2024,
+    "antall_saker": 100,
+    "latent_gevinst_mill_kr": 5420,
+    "kilde_id": "K97",
+    "kilde_tabell": "NOU 2026:9, kap 3, tabell 3.4",
+    "populasjon": "Skattedirektoratets utflyttingsskattesaker i inntektsåret, ikke samme personliste som 3.2",
+    "definisjon": "Samlet fastsatt latent gevinst; ikke faktisk flyttet kapital eller skatteinnbetalt beløp",
+    "begrensning": "Administrative opplysninger ikke samlet inn for statistikkformål; 2025 mangler"
+  }
+]

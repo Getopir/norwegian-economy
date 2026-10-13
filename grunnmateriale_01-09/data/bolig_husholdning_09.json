@@ -1,0 +1,26 @@
+[
+  {
+    "indikator": "Registrerte boliger, bebodde og ubebodde",
+    "aar": 2026,
+    "verdi": 2762504,
+    "enhet": "boliger",
+    "kilde_id": "K156",
+    "status": "Bestand; Matrikkelen, registreringsetterslep"
+  },
+  {
+    "indikator": "Privathusholdninger",
+    "aar": 2026,
+    "verdi": 2672051,
+    "enhet": "husholdninger",
+    "kilde_id": "K155",
+    "status": "Husholdninger, egen registreringsdefinisjon"
+  },
+  {
+    "indikator": "Registrerte boliger, netto endring siste år",
+    "aar": 2026,
+    "verdi": 18761,
+    "enhet": "boliger",
+    "kilde_id": "K156",
+    "status": "Netto bestandsendring; ikke ferdigstillelser"
+  }
+]

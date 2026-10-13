@@ -1,0 +1,164 @@
+[
+  {
+    "indikator": "Fond realavkastning, annualisert 1998–2025",
+    "periode": "2025",
+    "verdi": 4.34,
+    "enhet": "prosent",
+    "kilde_id": "K141",
+    "status": "Regnskapsrapport, historisk annualisert; ingen framtidsgaranti",
+    "merknad": "Regnskapsrapport, historisk annualisert; ingen framtidsgaranti"
+  },
+  {
+    "indikator": "Fond realavkastning, annualisert 1998–H1 2026",
+    "periode": "2026-H1",
+    "verdi": 4.51,
+    "enhet": "prosent",
+    "kilde_id": "K140",
+    "status": "Regnskap, historisk annualisert",
+    "merknad": "Regnskap, historisk annualisert"
+  },
+  {
+    "indikator": "Fond avkastning, 2025 i valutakurv",
+    "periode": "2025",
+    "verdi": 15.11,
+    "enhet": "prosent",
+    "kilde_id": "K141",
+    "status": "Historisk kalenderår",
+    "merknad": "Historisk kalenderår"
+  },
+  {
+    "indikator": "Fond avkastning, 2026 første halvår i valutakurv",
+    "periode": "2026-H1",
+    "verdi": 9.44,
+    "enhet": "prosent",
+    "kilde_id": "K140",
+    "status": "Historisk halvår",
+    "merknad": "Historisk halvår"
+  },
+  {
+    "indikator": "Kronekursbidrag til fondets verdi 2025",
+    "periode": "2025",
+    "verdi": -1155,
+    "enhet": "mrd. NOK",
+    "kilde_id": "K141",
+    "status": "Regnskapseffekt fra valutakurser",
+    "merknad": "Regnskapseffekt fra valutakurser"
+  },
+  {
+    "indikator": "Kronekursbidrag til fondets verdi 2026 H1",
+    "periode": "2026-H1",
+    "verdi": -427,
+    "enhet": "mrd. NOK",
+    "kilde_id": "K140",
+    "status": "Regnskapseffekt fra valutakurser",
+    "merknad": "Regnskapseffekt fra valutakurser"
+  },
+  {
+    "indikator": "Fondsverdi mot Fastlands-BNP, 2029",
+    "periode": "2029",
+    "verdi": 4.9,
+    "enhet": "multiplikator",
+    "kilde_id": "K137",
+    "status": "Betinget statlig framskriving",
+    "merknad": "Betinget statlig framskriving"
+  },
+  {
+    "indikator": "Fondsverdi mot Fastlands-BNP, 2060",
+    "periode": "2060",
+    "verdi": 4.5,
+    "enhet": "multiplikator",
+    "kilde_id": "K137",
+    "status": "Betinget statlig framskriving",
+    "merknad": "Betinget statlig framskriving"
+  },
+  {
+    "indikator": "Strukturelt underskudd som % av trend-Fastlands-BNP, 2001",
+    "periode": "2001",
+    "verdi": 2.0,
+    "enhet": "prosent",
+    "kilde_id": "K137",
+    "status": "Historisk finanspolitisk mål",
+    "merknad": "Historisk finanspolitisk mål"
+  },
+  {
+    "indikator": "Inndekningsbehov i 2060, Perspektivmeldingen 2024",
+    "periode": "2060-vintage-2024",
+    "verdi": 6.2,
+    "enhet": "prosent Fastlands-BNP",
+    "kilde_id": "K143",
+    "status": "Betinget framskriving, ikke realisert tall",
+    "merknad": "Betinget framskriving, ikke realisert tall"
+  },
+  {
+    "indikator": "Inndekningsbehov i 2060, Nasjonalbudsjettet 2026",
+    "periode": "2060-vintage-2025",
+    "verdi": 5.9,
+    "enhet": "prosent Fastlands-BNP",
+    "kilde_id": "K125",
+    "status": "Betinget framskriving, ikke realisert tall",
+    "merknad": "Betinget framskriving, ikke realisert tall"
+  },
+  {
+    "indikator": "Inndekningsbehov i 2060, Nasjonalbudsjettet 2027",
+    "periode": "2060-vintage-2026",
+    "verdi": 5.8,
+    "enhet": "prosent Fastlands-BNP",
+    "kilde_id": "K137",
+    "status": "Betinget framskriving, ikke realisert tall",
+    "merknad": "Betinget framskriving, ikke realisert tall"
+  },
+  {
+    "indikator": "Endring offentlig inntekt 2027–2060",
+    "periode": "2060",
+    "verdi": -2.2,
+    "enhet": "prosentpoeng Fastlands-BNP",
+    "kilde_id": "K137",
+    "status": "Betinget framskriving",
+    "merknad": "Betinget framskriving"
+  },
+  {
+    "indikator": "Endring offentlig utgift 2027–2060",
+    "periode": "2060",
+    "verdi": 3.6,
+    "enhet": "prosentpoeng Fastlands-BNP",
+    "kilde_id": "K137",
+    "status": "Betinget framskriving",
+    "merknad": "Betinget framskriving"
+  },
+  {
+    "indikator": "Hypotetisk stresstest: ekstremvær",
+    "periode": "2025",
+    "verdi": -20,
+    "enhet": "prosent fond",
+    "kilde_id": "K146",
+    "status": "D — hypotetisk stressmodell; ingen prognose",
+    "merknad": "D — hypotetisk stressmodell; ingen prognose"
+  },
+  {
+    "indikator": "Hypotetisk stresstest: regional gjeldskrise",
+    "periode": "2025",
+    "verdi": -32,
+    "enhet": "prosent fond",
+    "kilde_id": "K146",
+    "status": "D — hypotetisk stressmodell; ingen prognose",
+    "merknad": "D — hypotetisk stressmodell; ingen prognose"
+  },
+  {
+    "indikator": "Hypotetisk stresstest: AI-korreksjon",
+    "periode": "2025",
+    "verdi": -35,
+    "enhet": "prosent fond",
+    "kilde_id": "K146",
+    "status": "D — hypotetisk stressmodell; ingen prognose",
+    "merknad": "D — hypotetisk stressmodell; ingen prognose"
+  },
+  {
+    "indikator": "Hypotetisk stresstest: fragmentert verden",
+    "periode": "2025",
+    "verdi": -37,
+    "enhet": "prosent fond",
+    "kilde_id": "K146",
+    "status": "D — hypotetisk stressmodell; ingen prognose",
+    "merknad": "D — hypotetisk stressmodell; ingen prognose"
+  }
+]

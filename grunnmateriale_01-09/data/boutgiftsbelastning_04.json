@@ -1,0 +1,326 @@
+[
+  {
+    "aar": 2011,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.9,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2011,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 2.3,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2011,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 5.7,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2012,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 7.7,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2012,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 1.5,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2012,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 5.4,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2013,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.3,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2013,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 1.9,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2013,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 5.0,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2014,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.4,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2014,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 1.8,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2014,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 5.1,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2015,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.6,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2015,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 1.6,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2015,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 5.4,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2016,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.7,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2016,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 2.3,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2016,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 4.9,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2017,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 7.9,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2017,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 2.1,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2017,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 5.3,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2018,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.4,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2018,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 2.1,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2018,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 4.8,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2019,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.8,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2019,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 3.6,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2019,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 6.0,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2020,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 6.1,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2020,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 2.0,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2020,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 4.8,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2023,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 9.4,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2023,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 3.1,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2023,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 7.2,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2025,
+    "aldersgruppe": "25–44 år",
+    "andel_prosent": 11.8,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2025,
+    "aldersgruppe": "67 år og eldre",
+    "andel_prosent": 3.7,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  },
+  {
+    "aar": 2025,
+    "aldersgruppe": "Alle 16 år og eldre",
+    "andel_prosent": 8.7,
+    "kilde_id": "K69",
+    "maal": "Andel som opplever husholdningens boutgifter som svært tyngende",
+    "status": "Utvalgsundersøkelse (EU-SILC)",
+    "merknad": "Indikatoren ble ikke innhentet i 2021, 2022 eller 2024; ikke interpolert."
+  }
+]

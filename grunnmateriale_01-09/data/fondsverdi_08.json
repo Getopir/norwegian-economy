@@ -1,0 +1,90 @@
+[
+  {
+    "periode": "2016",
+    "aar": 2016,
+    "fond_mrd_nok": 7510,
+    "kilde_id": "K06",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2017",
+    "aar": 2017,
+    "fond_mrd_nok": 8488,
+    "kilde_id": "K06",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2018",
+    "aar": 2018,
+    "fond_mrd_nok": 8256,
+    "kilde_id": "K06",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2019",
+    "aar": 2019,
+    "fond_mrd_nok": 10088,
+    "kilde_id": "K06",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2020",
+    "aar": 2020,
+    "fond_mrd_nok": 10914,
+    "kilde_id": "K06",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2021",
+    "aar": 2021,
+    "fond_mrd_nok": 12340,
+    "kilde_id": "K141",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2022",
+    "aar": 2022,
+    "fond_mrd_nok": 12429,
+    "kilde_id": "K141",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2023",
+    "aar": 2023,
+    "fond_mrd_nok": 15757,
+    "kilde_id": "K141",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2024",
+    "aar": 2024,
+    "fond_mrd_nok": 19742,
+    "kilde_id": "K141",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2025",
+    "aar": 2025,
+    "fond_mrd_nok": 21268,
+    "kilde_id": "K141",
+    "status": "Faktisk markedsverdi ved utgangen av året",
+    "merknad": "Løpende NOK; inkluderer valuta, avkastning og netto kapitaltilførsel"
+  },
+  {
+    "periode": "2026-H1",
+    "aar": 2026,
+    "fond_mrd_nok": 22683,
+    "kilde_id": "K140",
+    "status": "Faktisk markedsverdi per 30. juni 2026",
+    "merknad": "Halvårsobservasjon, ikke 2026 årsverdi"
+  }
+]

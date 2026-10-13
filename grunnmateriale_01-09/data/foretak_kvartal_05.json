@@ -1,0 +1,72 @@
+[
+  {
+    "periode": "2024-K4",
+    "totalt": 15625,
+    "aksjeselskap": 6729,
+    "enkeltpersonforetak": 8604,
+    "kilde_id": "K77",
+    "kilde_tabell": "SSB 08076",
+    "status": "Observerte kvartalsregistreringer",
+    "merknad": "Ikke identisk med aktive nyetablerte foretak; SSB kvartalsmetodikk er endret i 2026; kategori AS og ENK summerer ikke fullt opp til I alt."
+  },
+  {
+    "periode": "2025-K1",
+    "totalt": 16525,
+    "aksjeselskap": 7907,
+    "enkeltpersonforetak": 8424,
+    "kilde_id": "K77",
+    "kilde_tabell": "SSB 08076",
+    "status": "Observerte kvartalsregistreringer",
+    "merknad": "Ikke identisk med aktive nyetablerte foretak; SSB kvartalsmetodikk er endret i 2026; kategori AS og ENK summerer ikke fullt opp til I alt."
+  },
+  {
+    "periode": "2025-K2",
+    "totalt": 14112,
+    "aksjeselskap": 6217,
+    "enkeltpersonforetak": 7681,
+    "kilde_id": "K77",
+    "kilde_tabell": "SSB 08076",
+    "status": "Observerte kvartalsregistreringer",
+    "merknad": "Ikke identisk med aktive nyetablerte foretak; SSB kvartalsmetodikk er endret i 2026; kategori AS og ENK summerer ikke fullt opp til I alt."
+  },
+  {
+    "periode": "2025-K3",
+    "totalt": 16276,
+    "aksjeselskap": 7197,
+    "enkeltpersonforetak": 8842,
+    "kilde_id": "K77",
+    "kilde_tabell": "SSB 08076",
+    "status": "Observerte kvartalsregistreringer",
+    "merknad": "Ikke identisk med aktive nyetablerte foretak; SSB kvartalsmetodikk er endret i 2026; kategori AS og ENK summerer ikke fullt opp til I alt."
+  },
+  {
+    "periode": "2025-K4",
+    "totalt": 15495,
+    "aksjeselskap": 7112,
+    "enkeltpersonforetak": 8183,
+    "kilde_id": "K77",
+    "kilde_tabell": "SSB 08076",
+    "status": "Observerte kvartalsregistreringer",
+    "merknad": "Ikke identisk med aktive nyetablerte foretak; SSB kvartalsmetodikk er endret i 2026; kategori AS og ENK summerer ikke fullt opp til I alt."
+  },
+  {
+    "periode": "2026-K1",
+    "totalt": 18092,
+    "aksjeselskap": 8669,
+    "enkeltpersonforetak": 9252,
+    "kilde_id": "K77",
+    "kilde_tabell": "SSB 08076",
+    "status": "Observerte kvartalsregistreringer",
+    "merknad": "Ikke identisk med aktive nyetablerte foretak; SSB kvartalsmetodikk er endret i 2026; kategori AS og ENK summerer ikke fullt opp til I alt."
+  },
+  {
+    "periode": "2026-K2",
+    "totalt": 17052,
+    "aksjeselskap": 7327,
+    "enkeltpersonforetak": 9604,
+    "kilde_id": "K77",
+    "kilde_tabell": "SSB 08076",
+    "status": "Observerte kvartalsregistreringer",
+    "merknad": "Ikke identisk med aktive nyetablerte foretak; SSB kvartalsmetodikk er endret i 2026; kategori AS og ENK summerer ikke fullt opp til I alt."
+  }
+]

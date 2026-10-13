@@ -1,0 +1,263 @@
+[
+  {
+    "indikator": "Boligandel 30-åringer",
+    "periode": "2014",
+    "gruppe": "Alle 30-åringer",
+    "verdi": 50,
+    "enhet": "prosent",
+    "kilde_id": "K08",
+    "merknad": "Tverrsnitt 2014"
+  },
+  {
+    "indikator": "Boligandel 30-åringer",
+    "periode": "2023",
+    "gruppe": "Alle 30-åringer",
+    "verdi": 53,
+    "enhet": "prosent",
+    "kilde_id": "K08",
+    "merknad": "Tverrsnitt 2023"
+  },
+  {
+    "indikator": "Boligandel innen 25 år",
+    "periode": "1988–1993",
+    "gruppe": "Nederste foreldreformueskvartil",
+    "verdi": 20.4,
+    "enhet": "prosent",
+    "kilde_id": "K08",
+    "merknad": "Kumulativ observasjon ikke kausal"
+  },
+  {
+    "indikator": "Boligandel innen 25 år",
+    "periode": "1988–1993",
+    "gruppe": "Øverste foreldreformuesprosent",
+    "verdi": 50.4,
+    "enhet": "prosent",
+    "kilde_id": "K08",
+    "merknad": "Kumulativ observasjon ikke kausal"
+  },
+  {
+    "indikator": "Boligandel innen 30 år",
+    "periode": "1988–1993",
+    "gruppe": "Nederste foreldreformueskvartil",
+    "verdi": 42.3,
+    "enhet": "prosent",
+    "kilde_id": "K08",
+    "merknad": "Kumulativ observasjon ikke kausal"
+  },
+  {
+    "indikator": "Boligandel innen 30 år",
+    "periode": "1988–1993",
+    "gruppe": "Øverste foreldreformuesprosent",
+    "verdi": 83.1,
+    "enhet": "prosent",
+    "kilde_id": "K08",
+    "merknad": "Kumulativ observasjon ikke kausal"
+  },
+  {
+    "indikator": "Gjennomsnittlig gjeldsgrad, førstegangskjøpere",
+    "periode": "2025",
+    "gruppe": "Ny boliglån i undersøkelsen",
+    "verdi": 380,
+    "enhet": "prosent av brutto inntekt",
+    "kilde_id": "K52",
+    "merknad": "Utvalg av lån; ikke alle unge"
+  },
+  {
+    "indikator": "Gjennomsnittlig belåningsgrad, førstegangskjøpere",
+    "periode": "2025",
+    "gruppe": "Ny boliglån i undersøkelsen",
+    "verdi": 77,
+    "enhet": "prosent",
+    "kilde_id": "K52",
+    "merknad": "Utvalg av lån"
+  },
+  {
+    "indikator": "Lån med eldre medlåntaker utenfor husstand",
+    "periode": "2025",
+    "gruppe": "Førstegangskjøpere",
+    "verdi": 13,
+    "enhet": "prosent av lån",
+    "kilde_id": "K52",
+    "merknad": "Ikke direkte mål på alle typer foreldrehjelp"
+  },
+  {
+    "indikator": "Lån med eldre medlåntaker utenfor husstand",
+    "periode": "2024",
+    "gruppe": "Førstegangskjøpere",
+    "verdi": 8,
+    "enhet": "prosent av lån",
+    "kilde_id": "K52",
+    "merknad": "Sammenlignbart indikator i samme undersøkelse, ikke foreldreprosent"
+  },
+  {
+    "indikator": "Andel nye lån med svak likviditetsbuffer",
+    "periode": "2025",
+    "gruppe": "Førstegangskjøpere",
+    "verdi": 38,
+    "enhet": "prosent",
+    "kilde_id": "K52",
+    "merknad": "Buffer 0–4000 kroner etter regulatorisk stresstest"
+  },
+  {
+    "indikator": "Andel nye lån med utilstrekkelig betjeningsevne",
+    "periode": "2025",
+    "gruppe": "Førstegangskjøpere",
+    "verdi": 5,
+    "enhet": "prosent",
+    "kilde_id": "K52",
+    "merknad": "Stresstest i boliglånsundersøkelsen"
+  },
+  {
+    "indikator": "Beregnet median nettoformue husholdninger",
+    "periode": "2024",
+    "gruppe": "Hovedinntektstaker under 25 år",
+    "verdi": 24000,
+    "enhet": "kroner",
+    "kilde_id": "K54",
+    "merknad": "Husholdninger, studenter utelatt"
+  },
+  {
+    "indikator": "Beregnet median nettoformue husholdninger",
+    "periode": "2024",
+    "gruppe": "Hovedinntektstaker 67–79 år",
+    "verdi": 4200000,
+    "enhet": "kroner",
+    "kilde_id": "K54",
+    "merknad": "Husholdninger, studenter utelatt"
+  },
+  {
+    "indikator": "Beregnet median nettoformue husholdninger",
+    "periode": "2024",
+    "gruppe": "Alle husholdninger",
+    "verdi": 2000000,
+    "enhet": "kroner",
+    "kilde_id": "K54",
+    "merknad": "Husholdninger, studenter utelatt"
+  },
+  {
+    "indikator": "Median inntekt etter skatt",
+    "periode": "2024",
+    "gruppe": "Alle husholdninger",
+    "verdi": 676100,
+    "enhet": "kroner",
+    "kilde_id": "K67",
+    "merknad": "Nominell husholdningsinntekt, studenter utelatt"
+  },
+  {
+    "indikator": "Median inntekt etter skatt",
+    "periode": "2024",
+    "gruppe": "Aleneboende under 30 år",
+    "verdi": 363900,
+    "enhet": "kroner",
+    "kilde_id": "K68",
+    "merknad": "Nominell husholdningsinntekt; ikke lønn og ikke jevnførte husholdningsstørrelser"
+  },
+  {
+    "indikator": "Median inntekt etter skatt",
+    "periode": "2024",
+    "gruppe": "Par uten barn eldste under 30 år",
+    "verdi": 774200,
+    "enhet": "kroner",
+    "kilde_id": "K68",
+    "merknad": "Nominell husholdningsinntekt; ikke lønn og ikke jevnførte husholdningsstørrelser"
+  },
+  {
+    "indikator": "Realvekst median inntekt etter skatt",
+    "periode": "2024",
+    "gruppe": "Alle husholdninger",
+    "verdi": 3.2,
+    "enhet": "prosent",
+    "kilde_id": "K67",
+    "merknad": "Mot 2023, eksklusive studenthusholdninger"
+  },
+  {
+    "indikator": "Boutgifter svært tyngende",
+    "periode": "2025",
+    "gruppe": "25–44 år",
+    "verdi": 11.8,
+    "enhet": "prosent",
+    "kilde_id": "K69",
+    "merknad": "EU-SILC, datagrunnlag etter alder, ikke kohorter"
+  },
+  {
+    "indikator": "Boutgifter svært tyngende",
+    "periode": "2025",
+    "gruppe": "67 år+",
+    "verdi": 3.7,
+    "enhet": "prosent",
+    "kilde_id": "K69",
+    "merknad": "EU-SILC, datagrunnlag etter alder, ikke kohorter"
+  },
+  {
+    "indikator": "NEET",
+    "periode": "2025",
+    "gruppe": "15–29 år",
+    "verdi": 10.1,
+    "enhet": "prosent",
+    "kilde_id": "K71",
+    "merknad": "Foreløpige registertall, måledefinisjon skiller seg fra AKU"
+  },
+  {
+    "indikator": "NEET",
+    "periode": "2025",
+    "gruppe": "15–29 år",
+    "verdi": 105300,
+    "enhet": "personer avrundet",
+    "kilde_id": "K71",
+    "merknad": "Foreløpig talldato; avrunding"
+  },
+  {
+    "indikator": "Samlet fruktbarhetstall",
+    "periode": "2009",
+    "gruppe": "Norge",
+    "verdi": 1.98,
+    "enhet": "barn per kvinne",
+    "kilde_id": "K11",
+    "merknad": "Periodemål; ikke ferdig barnetall for kvinner født i 2009"
+  },
+  {
+    "indikator": "Samlet fruktbarhetstall",
+    "periode": "2023",
+    "gruppe": "Norge",
+    "verdi": 1.4,
+    "enhet": "barn per kvinne",
+    "kilde_id": "K11",
+    "merknad": "Periodemål"
+  },
+  {
+    "indikator": "Samlet fruktbarhetstall",
+    "periode": "2025",
+    "gruppe": "Norge",
+    "verdi": 1.48,
+    "enhet": "barn per kvinne",
+    "kilde_id": "K11",
+    "merknad": "Periodemål"
+  },
+  {
+    "indikator": "Alder ved første fødsel",
+    "periode": "2025",
+    "gruppe": "Førstegangsfødende mødre",
+    "verdi": 30.4,
+    "enhet": "år",
+    "kilde_id": "K11",
+    "merknad": "Periodemål"
+  },
+  {
+    "indikator": "Alder ved første fødsel",
+    "periode": "2025",
+    "gruppe": "Førstegangsfødende fedre",
+    "verdi": 32.3,
+    "enhet": "år",
+    "kilde_id": "K11",
+    "merknad": "Periodemål"
+  },
+  {
+    "indikator": "Samlet disponibel realinntekt husholdningene",
+    "periode": "2025",
+    "gruppe": "Hele husholdningssektoren",
+    "verdi": 3.2,
+    "enhet": "prosent årsendring",
+    "kilde_id": "K74",
+    "merknad": "Nasjonalregnskapsaggregat, ikke kohortspesifikk"
+  }
+]
