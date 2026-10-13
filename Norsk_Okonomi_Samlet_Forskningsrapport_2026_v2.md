@@ -3621,3 +3621,23 @@ A: dokumenterte/deskriptive forhold. B: samvariasjon. C: troverdig kausal identi
 # Vedlegg – Metodekontroll
 
 Se `VITENSKAPELIG_KVALITETSSIKRING.md` og originalpakken for register, proveniens og replikasjon.
+
+## Avsluttende konklusjon – Norge har råd til å handle, men ikke til å utsette omstillingen
+
+Norge er fortsatt et av verdens rikeste land. Vi har sterke institusjoner, en høyt utdannet befolkning og et oljefond uten sidestykke. Nettopp derfor bør vi stille et ubehagelig spørsmål: **Bruker vi vår historiske økonomiske handlefrihet til å bygge fremtidens verdiskaping, eller til å gjøre det lettere å fortsette som før?**
+
+Denne forskningen dokumenterer flere utviklingstrekk som, dersom de ikke møtes med tilstrekkelig omstilling, kan svekke grunnlaget for fremtidens velferd. OECD beskriver avtakende produktivitetsvekst og svakere dynamikk blant unge foretak. Offentlige utgifter er høye, samtidig som befolkningen eldes og behovet for arbeidskraft i omsorgstjenestene øker. Tilgangen til bolig og muligheten til å bygge formue er dessuten sterkt ulikt fordelt etter foreldrenes økonomi. Ingen av disse forholdene betyr at Norge er på vei mot en uunngåelig kollaps. Men sammen danner de et alvorlig varselsignal.
+
+**Vi kan ikke bevilge oss ut av et produktivitetsproblem.** Høy offentlig ressursbruk er ikke i seg selv bevis på sløsing; geografi, kvalitet, velferdsambisjoner og Baumols kostnadssykdom må tas med i regnskapet. Det er likevel uholdbart å behandle utgiftsvekst som et mål på framgang. Det avgjørende er hva samfunnet faktisk får igjen: bedre tjenester, høyere produktivitet, flere i arbeid og en sterkere skattebase. Politikken må måles på resultater, ikke på størrelsen på budsjettpostene.
+
+**Vi kan heller ikke basere en ny generasjons framtid på at den forrige generasjonens boligverdier fortsetter å stige.** Bolig utgjorde om lag 62 prosent av husholdningenes beregnede bruttoformue i 2024. SSBs registeranalyse viser et betydelig gap i tidlig boligetablering mellom unge med svært formuende foreldre og unge med foreldre i nederste formueskvartil. Det er ikke dokumentert at boligkreditt i et bestemt omfang fortrenger produktive næringsinvesteringer, men det er et forskningsspørsmål Norge bør ha langt høyere ambisjoner om å besvare. Et samfunn som i økende grad gjør økonomisk selvstendighet avhengig av arv og foreldrehjelp, risikerer å sløse bort talent og svekke sosial mobilitet.
+
+**Oljefondet er en styrke, men det kan også bli en sovepute.** Fondet kan finansiere offentlige forpliktelser og dempe økonomiske sjokk. Det kan ikke automatisk skaffe arbeidskraft, skape lønnsomme virksomheter eller sikre økt produktivitet. Den strukturelle budsjettbruken er allerede svært omfattende. At fondstilgangen faktisk *forsinker* reformer, er ennå ikke kausalt dokumentert; men faren for at finansielt handlingsrom brukes til å utsette krevende prioriteringer, er for viktig til å avfeies.
+
+Den demografiske utviklingen gjør tidsvinduet smalere. Med lav fruktbarhet og en kraftig vekst i antallet eldre vil færre yrkesaktive relativt sett måtte finansiere og utføre flere tjenester, dersom ikke produktivitet, arbeidstilbud og organisering endres. Penger alene kan ikke utføre omsorgsarbeid. Spørsmålet er derfor ikke bare om vi har råd til velferdsstaten, men om vi har kapasitet til å levere den.
+
+Veien videre krever mer enn symbolpolitikk og små årlige omfordelinger. Skatter, boligregulering, offentlig styring og kapitaltilgang må vurderes samlet – med klare mål for etablering i arbeidslivet, produktive investeringer, konkurransekraft og generasjonsmobilitet. Radikale reformer er heller ikke automatisk gode reformer: De må testes mot nullalternativer, fordelingsvirkninger, offentlige inntekter og risiko.
+
+**Vår samlede vurdering er tydelig: Norge har ingen akutt mangel på penger, men vi risikerer å utvikle en varig mangel på økonomisk fornyelse.** Det er fremdeles mulig å endre kursen på egne premisser. Jo lenger nødvendige tilpasninger utsettes, desto større kan kostnadene bli, og desto mindre handlingsrom vil framtidige generasjoner ha. Norges viktigste økonomiske oppgave er ikke å finne ut hvor lenge oljefondet kan betale for dagens modell. **Det er å bruke formuen mens vi kan, til å bygge en økonomi som står sterkere også uten den.**
+
+*Forskningsstatus:* Dette er en normativ syntese og risikovurdering med grunnlag i rapportens dokumenterte observasjoner og eksplisitt åpne hypoteser, ikke en empirisk bevist årsaksmodell eller prognose om sammenbrudd. Se delrapportene 02–12 og vitenskapelig kvalitetssikring for kildegrunnlag og begrensninger.
