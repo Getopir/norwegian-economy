@@ -1,0 +1,74 @@
+[
+  {
+    "id": "R01",
+    "tittel": "NOU 2026:9, kapittel 3.2–3.4",
+    "url": "https://www.regjeringen.no/no/dokumenter/nou-2026-9/id3167167/?ch=4",
+    "tolkning": "Høyt formuende; registrerte flyttinger, innflyttinger, latent gevinst; ikke kausalt"
+  },
+  {
+    "id": "R02",
+    "tittel": "Marius Ring, Taxing Entrepreneurial Wealth (NBER 35854, okt. 2026)",
+    "url": "https://www.nber.org/papers/w35854",
+    "tolkning": "Kausal design reformeksponering; maksimalt ca 100 skattedrevne utflyttere; ingen påvist gründer-/oppfinnerflukt eller investeringsnedgang"
+  },
+  {
+    "id": "R03",
+    "tittel": "Jakobsen mfl., Taxing Top Wealth (NBER 32153, rev. jan. 2026)",
+    "url": "https://www.nber.org/papers/w32153",
+    "tolkning": "Skandinavia: +1 pp toppsats knyttet til -2 % rik-bestand, -0,10 % bruttoprodukt, -0,07 % investering og -0,02 % sysselsetting via mobilitet"
+  },
+  {
+    "id": "R04",
+    "tittel": "Fagereng, Guiso & Ring (NBER 35262, 2026)",
+    "url": "https://www.nber.org/papers/w35262",
+    "tolkning": "Langsomme porteføljetilpasninger til skatteinduserte endringer i aksjepremie; ikke målt norsk BNP-effekt"
+  },
+  {
+    "id": "R05",
+    "tittel": "Ring, Entrepreneurial Wealth and Employment (Journal of Finance 2023)",
+    "url": "https://doi.org/10.1111/jofi.13280",
+    "tolkning": "Eksogene gründersjokk påvirker unge foretaks kapital, investering og ansettelser; ikke utflyttingseffekt"
+  },
+  {
+    "id": "R06",
+    "tittel": "Bacher mfl., Regulating Entrepreneurship (NBER 35780, 2026)",
+    "url": "https://www.nber.org/papers/w35780",
+    "tolkning": "70 % lavere kapitalkrav ga nær dobling i inngang; ikke en formuesskatt-effekt"
+  },
+  {
+    "id": "R07",
+    "tittel": "SSB, Flyttinger, statistikk 13. mars 2026",
+    "url": "https://www.ssb.no/befolkning/flytting/statistikk/flyttinger",
+    "tolkning": "Norske statsborgeres og alle borgeres flyttinger; ikke skatteårsaksregistrering"
+  },
+  {
+    "id": "R08",
+    "tittel": "Finansdepartementet Prop. 1 LS (2025–2026), formuesskatt",
+    "url": "https://www.regjeringen.no/no/dokumenter/prop.-1-ls-20252026/id3124192/?ch=2",
+    "tolkning": "Anslo ca 34 mrd. kr i proveny 2025; ikke effekten av reform 2022–25"
+  },
+  {
+    "id": "R09",
+    "tittel": "Skatteetaten, skattemessig emigrasjon",
+    "url": "https://www.skatteetaten.no/en/person/taxes/get-the-taxes-right/abroad/tax-emigration/",
+    "tolkning": "Registrert utflytting og skattemessig emigrasjon er forskjellige"
+  },
+  {
+    "id": "R10",
+    "tittel": "Iacono mfl., Behavioural responses to wealth taxation (Fiscal Studies 2026)",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/1475-5890.70024",
+    "tolkning": "Bø kommunesats; betydelig intern flytterespons; kan ikke tolkes som nasjonal netto kapitalflukt"
+  },
+  {
+    "id": "R11",
+    "tittel": "NOU 2022:20, skatt og utflytting",
+    "url": "https://www.regjeringen.no/no/dokumenter/nou-2022-20/id2951826/?ch=11",
+    "tolkning": "Historisk utvalg, annen definisjon; viste betydelig innflyttet formue før 2022"
+  },
+  {
+    "id": "R12",
+    "tittel": "Ring, Wealth Taxation and Household Saving (Review of Economic Studies 2025)",
+    "url": "https://academic.oup.com/restud/article-abstract/92/5/3375/7822152",
+    "tolkning": "Sparing kan respondere ulikt, ikke gitt entydig negativ effekt"
+  }
+]
